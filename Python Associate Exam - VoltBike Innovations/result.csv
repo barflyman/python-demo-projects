@@ -1,0 +1,2001 @@
+,bike_type,frame_material,production_cost,assembly_time,top_speed,battery_type,motor_power,customer_score
+0,road,aluminum,219.21,62.24,19.63,lead acid,317,3.01
+1,road,steel,617.81,87.4,26.15,nimh,230,6.67
+2,road,steel,608.5,57.26,27.84,li-ion,300,7.29
+3,mountain,steel,701.25,56.78,30.16,other,369,9.35
+4,road,carbon fiber,584.79,66.15,19.77,li-ion,282,7.81
+5,folding,aluminum,506.15,70.52,34.08,li-ion,269,5.76
+6,road,carbon fiber,365.08,40.18,26.99,nimh,264,4.92
+7,folding,steel,615.71,49.99,24.19,lead acid,238,8.42
+8,road,steel,302.05,86.78,23.57,lead acid,271,4.71
+9,standard,aluminum,476.44,70.91,22.38,lead acid,271,6.65
+10,road,carbon fiber,555.38,55.69,24.05,lead acid,227,6.03
+11,folding,aluminum,602.8,53.67,25.0,li-ion,207,7.33
+12,mountain,aluminum,207.5,32.68,30.96,li-ion,231,8.2
+13,mountain,carbon fiber,229.71,43.54,26.56,lead acid,309,4.97
+14,standard,carbon fiber,229.41,57.39,26.31,nimh,270,6.38
+15,road,aluminum,719.26,55.62,26.3,nimh,245,6.3
+16,mountain,aluminum,456.33,55.46,23.65,lead acid,183,6.12
+17,folding,steel,682.64,55.95,21.25,nimh,293,6.4
+18,mountain,steel,493.85,78.45,24.25,lead acid,285,6.77
+19,standard,carbon fiber,569.48,69.81,21.35,nimh,281,6.64
+20,road,steel,391.8,46.31,30.23,nimh,268,6.15
+21,folding,carbon fiber,715.66,74.93,19.04,nimh,318,5.44
+22,mountain,aluminum,420.91,79.83,34.74,nimh,225,4.98
+23,standard,carbon fiber,314.36,69.16,27.98,li-ion,303,5.28
+24,folding,carbon fiber,606.7,87.43,25.99,li-ion,312,8.66
+25,road,aluminum,548.77,73.58,31.22,nimh,210,5.06
+26,folding,aluminum,222.51,71.73,25.23,nimh,302,5.2
+27,road,carbon fiber,656.23,51.69,24.37,li-ion,222,5.76
+28,road,carbon fiber,451.23,54.3,24.53,li-ion,384,6.9
+29,road,steel,597.4,77.09,23.32,lead acid,225,8.16
+30,mountain,aluminum,696.75,47.75,30.51,lead acid,239,7.39
+31,mountain,aluminum,528.66,45.48,31.77,lead acid,305,6.15
+32,mountain,aluminum,272.34,64.46,28.55,lead acid,284,3.91
+33,mountain,aluminum,700.95,69.06,26.06,li-ion,345,8.22
+34,road,carbon fiber,463.53,45.49,27.88,lead acid,227,8.67
+35,folding,aluminum,353.98,100.09,21.66,lead acid,220,6.5
+36,standard,carbon fiber,578.49,54.86,15.56,li-ion,256,5.26
+37,standard,carbon fiber,529.26,45.7,27.25,lead acid,202,9.29
+38,mountain,steel,492.35,55.0,27.55,nimh,188,5.32
+39,mountain,carbon fiber,204.8,93.8,23.77,nimh,366,5.07
+40,mountain,steel,734.87,86.4,25.0,lead acid,218,5.76
+41,standard,aluminum,300.55,58.19,18.0,other,257,5.82
+42,road,carbon fiber,573.99,51.91,30.78,lead acid,241,5.71
+43,road,aluminum,347.67,92.23,18.15,other,314,6.34
+44,standard,steel,752.28,78.3,36.16,lead acid,192,4.71
+45,standard,aluminum,505.25,66.74,28.21,nimh,349,9.0
+46,standard,steel,620.51,61.07,25.0,lead acid,265,8.42
+47,road,aluminum,744.17,58.8,26.42,lead acid,173,6.92
+48,mountain,steel,531.97,74.29,23.07,li-ion,330,6.77
+49,mountain,carbon fiber,304.75,75.18,20.31,li-ion,346,6.11
+50,standard,carbon fiber,249.82,40.29,30.16,nimh,238,5.9
+51,road,aluminum,672.14,29.5,31.07,nimh,269,8.26
+52,folding,carbon fiber,259.73,87.8,20.66,lead acid,366,4.73
+53,road,aluminum,518.76,54.87,32.84,li-ion,235,4.37
+54,standard,carbon fiber,260.63,51.22,16.5,li-ion,276,3.89
+55,road,carbon fiber,536.77,55.65,19.74,lead acid,234,9.22
+56,standard,carbon fiber,501.05,59.57,30.36,lead acid,282,6.35
+57,mountain,carbon fiber,480.64,35.95,28.5,nimh,327,1.91
+58,mountain,steel,587.49,67.5,28.57,lead acid,311,9.1
+59,folding,steel,276.24,70.54,21.65,nimh,256,5.94
+60,mountain,carbon fiber,298.75,66.91,24.35,lead acid,306,5.87
+61,standard,steel,597.1,50.74,20.41,nimh,180,6.36
+62,road,carbon fiber,417.01,86.38,25.0,li-ion,217,8.15
+63,folding,carbon fiber,584.49,73.12,29.06,li-ion,242,7.59
+64,standard,steel,425.71,36.21,24.96,nimh,177,5.44
+65,folding,aluminum,647.22,66.36,23.22,lead acid,314,5.83
+66,standard,aluminum,569.78,51.34,25.0,lead acid,157,5.21
+67,folding,aluminum,317.66,54.67,25.57,li-ion,318,4.95
+68,folding,steel,524.16,47.21,18.48,lead acid,206,7.53
+69,standard,steel,447.02,41.32,27.74,nimh,271,6.72
+70,road,aluminum,757.68,78.11,29.52,nimh,260,8.17
+71,mountain,aluminum,296.65,80.11,25.58,li-ion,267,5.43
+72,standard,carbon fiber,418.21,67.41,30.94,li-ion,172,2.81
+73,mountain,aluminum,790.1,28.64,29.85,nimh,187,7.92
+74,mountain,carbon fiber,257.33,60.06,25.23,li-ion,191,4.91
+75,standard,aluminum,277.14,64.12,20.62,li-ion,244,5.08
+76,standard,steel,390.9,73.15,24.6,lead acid,234,4.83
+77,folding,carbon fiber,598.9,46.58,24.76,nimh,322,7.87
+78,standard,aluminum,640.32,40.27,19.53,li-ion,287,9.02
+79,folding,aluminum,238.12,68.76,24.38,nimh,201,4.36
+80,standard,steel,467.13,61.47,20.58,lead acid,222,3.89
+81,folding,carbon fiber,771.79,72.59,14.72,li-ion,269,8.85
+82,standard,aluminum,607.0,76.71,28.23,lead acid,272,5.41
+83,road,carbon fiber,275.04,76.15,27.9,lead acid,195,4.63
+84,standard,carbon fiber,783.19,59.34,22.9,lead acid,215,6.19
+85,mountain,carbon fiber,325.76,94.64,29.89,li-ion,224,4.75
+86,folding,carbon fiber,729.46,66.05,23.88,lead acid,198,8.94
+87,road,aluminum,225.81,58.1,19.87,nimh,169,6.31
+88,folding,steel,412.81,49.65,29.22,li-ion,291,7.43
+89,mountain,carbon fiber,792.2,49.4,32.44,nimh,198,9.21
+90,mountain,steel,399.6,57.02,22.48,li-ion,296,4.25
+91,folding,carbon fiber,338.07,48.95,21.99,lead acid,315,2.75
+92,standard,carbon fiber,638.52,58.82,19.48,nimh,168,8.74
+93,road,carbon fiber,580.89,41.55,23.2,nimh,195,7.09
+94,folding,carbon fiber,542.47,64.21,22.26,li-ion,196,8.34
+95,standard,aluminum,288.24,83.6,14.93,lead acid,166,7.73
+96,folding,steel,473.44,46.04,27.37,lead acid,298,6.24
+97,standard,aluminum,702.15,57.41,21.02,nimh,213,9.68
+98,standard,aluminum,583.89,41.89,27.0,nimh,234,7.02
+99,folding,steel,362.68,54.61,33.98,nimh,237,7.68
+100,mountain,aluminum,750.18,53.66,30.11,lead acid,249,7.06
+101,road,steel,543.37,39.06,34.63,li-ion,184,8.35
+102,mountain,aluminum,658.03,51.85,25.72,li-ion,325,10.29
+103,mountain,aluminum,233.92,89.94,31.64,nimh,331,4.29
+104,road,aluminum,490.85,74.44,24.05,lead acid,317,6.44
+105,road,carbon fiber,589.89,59.65,24.82,nimh,290,6.8
+106,road,steel,379.49,60.15,21.45,lead acid,188,4.94
+107,folding,carbon fiber,508.25,78.57,26.93,lead acid,222,4.77
+108,mountain,aluminum,335.07,33.32,30.42,lead acid,237,4.38
+109,folding,carbon fiber,720.46,50.49,20.89,nimh,275,7.34
+110,road,steel,618.41,57.73,16.25,lead acid,218,6.56
+111,standard,carbon fiber,609.1,46.84,17.9,nimh,230,4.94
+112,standard,aluminum,639.72,42.69,22.47,nimh,291,3.65
+113,road,carbon fiber,372.89,69.77,24.03,lead acid,185,6.53
+114,folding,aluminum,377.09,92.46,22.33,lead acid,305,6.03
+115,mountain,carbon fiber,534.97,75.55,26.07,li-ion,170,7.99
+116,standard,carbon fiber,631.32,50.0,23.46,nimh,255,9.07
+117,road,aluminum,617.51,81.56,23.34,lead acid,298,10.25
+118,mountain,carbon fiber,753.78,53.47,24.38,lead acid,305,8.92
+119,road,steel,732.77,92.94,32.83,lead acid,234,6.31
+120,folding,aluminum,254.93,76.71,27.18,li-ion,257,4.98
+121,mountain,aluminum,548.17,47.45,27.91,other,276,6.43
+122,road,aluminum,660.13,58.23,21.94,nimh,229,8.23
+123,road,steel,300.85,55.27,19.54,li-ion,221,5.27
+124,road,aluminum,756.78,74.2,26.17,nimh,231,8.31
+125,standard,steel,781.09,42.19,21.72,lead acid,220,6.97
+126,road,steel,219.51,55.75,37.41,lead acid,242,3.96
+127,road,carbon fiber,658.63,74.13,28.98,nimh,264,6.17
+128,road,steel,549.97,55.52,26.47,lead acid,186,10.53
+129,mountain,steel,733.67,67.53,22.34,other,258,10.3
+130,standard,steel,262.73,71.1,15.81,lead acid,286,7.68
+131,road,carbon fiber,326.66,61.14,30.03,lead acid,251,7.39
+132,road,aluminum,237.22,67.73,30.86,li-ion,245,4.96
+133,standard,carbon fiber,403.8,67.73,14.77,li-ion,258,8.76
+134,road,carbon fiber,675.14,44.73,19.95,li-ion,261,7.68
+135,standard,steel,689.84,70.44,34.72,lead acid,273,5.08
+136,standard,carbon fiber,254.03,49.34,26.17,lead acid,245,7.86
+137,folding,aluminum,770.59,73.76,22.35,li-ion,281,6.39
+138,road,aluminum,388.79,61.88,22.62,nimh,324,7.17
+139,road,carbon fiber,613.61,84.32,21.7,nimh,317,7.78
+140,folding,aluminum,514.56,51.32,20.0,nimh,249,6.7
+141,road,steel,736.37,32.03,30.62,nimh,187,9.78
+142,standard,carbon fiber,336.87,94.23,34.48,nimh,187,6.73
+143,folding,carbon fiber,320.96,47.81,35.96,other,214,7.64
+144,road,steel,281.04,75.36,14.72,li-ion,290,3.33
+145,road,steel,458.73,49.49,24.78,lead acid,250,5.48
+146,road,aluminum,644.82,88.08,33.1,li-ion,328,7.91
+147,standard,aluminum,630.42,69.09,30.89,lead acid,238,7.67
+148,folding,aluminum,745.67,54.42,24.85,nimh,258,7.6
+149,road,carbon fiber,710.86,55.78,23.46,li-ion,176,8.47
+150,road,carbon fiber,529.86,88.8,20.32,other,207,6.66
+151,standard,steel,453.63,68.22,17.39,other,319,4.94
+152,road,carbon fiber,368.98,59.43,26.4,li-ion,382,8.28
+153,mountain,carbon fiber,698.25,43.29,21.36,nimh,169,6.54
+154,mountain,steel,369.58,34.73,25.0,lead acid,234,4.54
+155,road,carbon fiber,563.48,114.66,22.73,lead acid,243,8.97
+156,mountain,steel,526.86,73.08,24.78,nimh,231,5.39
+157,road,steel,340.77,93.33,26.8,nimh,298,4.81
+158,road,carbon fiber,269.03,59.43,17.61,li-ion,269,4.75
+159,mountain,aluminum,646.92,69.83,26.52,lead acid,227,7.78
+160,road,steel,683.54,47.02,20.05,nimh,251,7.44
+161,mountain,aluminum,373.49,71.39,18.95,lead acid,262,7.65
+162,mountain,steel,649.62,46.35,33.62,nimh,312,7.97
+163,road,steel,701.55,64.49,23.06,other,282,7.96
+164,mountain,aluminum,459.33,86.38,27.74,lead acid,292,6.51
+165,mountain,carbon fiber,661.03,74.57,26.76,li-ion,255,8.4
+166,standard,steel,571.29,57.9,21.92,li-ion,245,4.55
+167,road,aluminum,334.77,21.16,25.5,lead acid,223,5.99
+168,mountain,steel,663.13,60.39,21.36,nimh,273,7.6
+169,standard,steel,756.18,58.12,23.2,nimh,254,9.29
+170,standard,aluminum,471.04,74.81,28.29,nimh,282,7.57
+171,mountain,aluminum,392.7,44.98,24.08,nimh,327,5.14
+172,mountain,steel,545.77,59.47,29.56,nimh,328,6.61
+173,folding,carbon fiber,776.89,54.97,24.64,lead acid,213,6.8
+174,mountain,carbon fiber,350.98,72.74,24.08,lead acid,177,7.21
+175,folding,aluminum,497.75,67.87,23.67,li-ion,300,5.2
+176,folding,steel,471.64,41.82,26.26,nimh,328,7.23
+177,road,steel,660.73,70.09,24.99,li-ion,181,4.97
+178,road,steel,376.49,55.58,23.11,lead acid,202,6.62
+179,mountain,carbon fiber,625.61,57.11,26.04,lead acid,264,6.99
+180,road,carbon fiber,764.58,61.6,33.28,lead acid,100,6.55
+181,standard,carbon fiber,290.05,56.3,28.0,nimh,290,4.49
+182,road,steel,441.92,67.27,26.45,li-ion,293,6.64
+183,folding,aluminum,429.31,37.56,25.53,li-ion,296,6.88
+184,road,carbon fiber,242.32,83.74,23.5,lead acid,222,4.64
+185,mountain,carbon fiber,344.97,52.43,19.17,lead acid,370,6.05
+186,mountain,carbon fiber,638.82,65.07,24.77,li-ion,250,6.43
+187,mountain,aluminum,357.28,49.28,25.0,li-ion,307,7.93
+188,mountain,steel,748.37,44.03,28.77,nimh,274,8.49
+189,road,aluminum,468.93,53.72,25.69,nimh,248,5.73
+190,standard,aluminum,433.82,49.51,33.3,li-ion,225,7.62
+191,standard,steel,437.12,30.44,35.04,lead acid,255,6.14
+192,mountain,aluminum,487.84,67.0,24.24,nimh,257,6.92
+193,folding,steel,362.38,49.88,28.02,lead acid,248,7.06
+194,standard,aluminum,548.47,63.23,20.54,nimh,241,6.76
+195,standard,carbon fiber,276.54,66.08,26.94,lead acid,200,5.19
+196,folding,steel,589.59,35.81,21.46,nimh,242,4.3
+197,mountain,carbon fiber,410.41,30.11,25.57,nimh,174,6.44
+198,standard,aluminum,408.3,76.79,25.1,nimh,246,4.84
+199,standard,aluminum,221.31,69.95,21.5,li-ion,277,4.31
+200,road,carbon fiber,589.29,24.88,33.07,nimh,247,6.56
+201,mountain,carbon fiber,422.11,57.78,27.27,lead acid,272,2.98
+202,mountain,carbon fiber,703.65,72.68,23.26,li-ion,254,5.57
+203,mountain,aluminum,223.41,85.1,29.23,lead acid,260,7.13
+204,road,aluminum,266.93,68.88,18.3,other,261,6.42
+205,mountain,carbon fiber,699.45,63.85,26.72,lead acid,172,8.7
+206,road,carbon fiber,356.08,45.94,31.36,li-ion,294,4.74
+207,folding,carbon fiber,268.73,53.12,26.25,lead acid,234,3.03
+208,road,steel,232.42,67.91,26.02,li-ion,260,4.24
+209,folding,aluminum,728.56,77.84,38.63,li-ion,304,8.43
+210,standard,aluminum,206.3,46.16,35.19,lead acid,273,5.88
+211,mountain,aluminum,432.02,54.17,20.37,lead acid,219,8.58
+212,road,steel,356.68,64.01,28.27,nimh,196,7.19
+213,road,carbon fiber,688.94,53.06,22.52,nimh,230,8.17
+214,mountain,aluminum,486.34,77.72,23.85,other,321,6.15
+215,road,carbon fiber,224.91,54.53,26.65,nimh,306,4.56
+216,standard,carbon fiber,436.52,75.71,24.63,nimh,202,5.54
+217,mountain,carbon fiber,345.27,67.77,27.28,nimh,286,3.82
+218,folding,steel,634.92,35.92,19.35,li-ion,218,7.53
+219,mountain,aluminum,435.32,42.25,21.91,li-ion,266,5.99
+220,folding,steel,307.75,57.16,31.14,nimh,283,6.2
+221,standard,steel,515.16,79.42,26.42,nimh,215,7.96
+222,mountain,carbon fiber,523.56,52.23,25.04,li-ion,295,6.62
+223,folding,aluminum,217.11,57.19,25.36,nimh,204,7.01
+224,road,steel,491.15,83.85,16.44,lead acid,301,5.26
+225,road,aluminum,568.28,54.99,18.44,nimh,271,8.29
+226,standard,carbon fiber,291.85,48.1,17.94,lead acid,290,1.96
+227,road,steel,332.67,39.93,29.61,lead acid,284,3.25
+228,road,aluminum,797.9,44.43,24.44,lead acid,238,6.12
+229,road,carbon fiber,355.18,54.12,34.38,li-ion,198,4.4
+230,folding,carbon fiber,674.84,68.91,29.14,lead acid,181,5.79
+231,standard,carbon fiber,344.67,72.73,26.88,li-ion,200,5.32
+232,folding,steel,240.82,76.38,24.15,lead acid,240,5.19
+233,folding,carbon fiber,205.4,60.06,22.64,nimh,245,4.94
+234,standard,aluminum,289.74,63.14,16.24,li-ion,256,4.07
+235,standard,steel,434.12,47.7,19.9,nimh,132,4.09
+236,mountain,aluminum,510.06,54.34,26.75,lead acid,233,8.56
+237,folding,steel,674.54,56.26,27.51,other,264,8.25
+238,road,steel,516.06,72.94,25.41,lead acid,379,4.17
+239,standard,carbon fiber,571.89,76.09,36.52,li-ion,168,5.21
+240,folding,carbon fiber,466.83,78.8,25.0,lead acid,320,6.54
+241,folding,steel,454.23,85.63,24.21,lead acid,220,7.84
+242,road,aluminum,718.06,34.82,23.35,lead acid,285,8.94
+243,road,steel,550.28,60.17,19.25,lead acid,243,9.01
+244,mountain,steel,562.28,83.37,21.89,li-ion,281,5.42
+245,standard,carbon fiber,461.73,45.74,28.0,lead acid,230,5.06
+246,road,carbon fiber,400.8,68.42,22.69,lead acid,215,6.99
+247,road,aluminum,539.77,65.57,33.0,other,282,5.71
+248,folding,carbon fiber,493.25,40.03,29.89,li-ion,367,8.52
+249,road,aluminum,202.4,63.08,28.26,li-ion,196,4.46
+250,standard,carbon fiber,570.09,60.85,31.39,li-ion,251,7.04
+251,standard,steel,733.37,54.97,23.84,li-ion,226,6.03
+252,mountain,steel,266.03,79.84,18.36,li-ion,242,7.18
+253,standard,steel,624.71,53.43,29.68,lead acid,178,6.54
+254,standard,aluminum,414.91,24.82,37.53,lead acid,252,7.59
+255,road,carbon fiber,673.64,59.53,24.9,lead acid,204,8.21
+256,folding,carbon fiber,799.4,51.76,25.85,nimh,254,7.31
+257,folding,steel,315.26,83.69,19.59,li-ion,327,4.35
+258,standard,aluminum,684.14,44.87,22.96,other,188,9.06
+259,folding,steel,291.25,55.35,20.47,lead acid,289,3.63
+260,mountain,aluminum,593.5,75.23,31.48,li-ion,305,5.89
+261,folding,aluminum,357.88,80.45,25.67,nimh,259,7.05
+262,road,steel,646.02,34.87,20.31,li-ion,238,5.78
+263,road,aluminum,626.21,68.16,25.0,nimh,186,5.04
+264,mountain,steel,472.84,48.97,30.66,lead acid,256,8.08
+265,folding,aluminum,612.11,50.48,23.81,nimh,205,4.97
+266,mountain,aluminum,556.58,60.39,36.63,nimh,229,5.14
+267,road,steel,680.24,57.83,20.43,lead acid,192,9.53
+268,mountain,carbon fiber,204.5,66.86,34.68,li-ion,256,4.8
+269,road,steel,658.33,38.83,36.52,li-ion,178,8.28
+270,standard,steel,347.97,66.6,27.35,li-ion,209,5.09
+271,road,carbon fiber,718.96,61.54,27.16,nimh,244,7.76
+272,road,steel,758.28,55.23,27.02,li-ion,258,8.85
+273,folding,carbon fiber,698.85,46.13,19.78,li-ion,298,7.73
+274,mountain,steel,396.3,65.73,24.28,lead acid,215,7.11
+275,folding,aluminum,299.35,66.17,23.58,li-ion,270,4.25
+276,road,carbon fiber,658.93,50.37,25.9,li-ion,208,8.8
+277,folding,steel,378.59,51.48,28.96,li-ion,224,4.65
+278,standard,steel,739.67,72.64,22.23,nimh,217,6.01
+279,mountain,steel,382.19,70.67,26.81,li-ion,298,5.76
+280,mountain,steel,731.57,66.89,23.3,li-ion,267,6.67
+281,standard,carbon fiber,619.31,67.45,22.36,other,302,7.19
+282,folding,aluminum,215.01,53.26,33.72,nimh,247,6.76
+283,road,aluminum,592.0,59.38,28.98,nimh,220,6.47
+284,mountain,steel,598.3,81.34,23.1,nimh,218,6.38
+285,standard,carbon fiber,424.21,75.43,22.26,nimh,256,4.02
+286,standard,aluminum,331.77,59.71,26.94,li-ion,349,5.96
+287,mountain,carbon fiber,531.37,61.46,24.26,lead acid,195,7.78
+288,folding,carbon fiber,312.56,91.65,31.43,li-ion,263,6.35
+289,folding,steel,789.19,52.61,25.05,lead acid,236,9.31
+290,road,aluminum,786.79,85.99,29.27,lead acid,204,6.33
+291,road,steel,419.71,77.28,29.31,li-ion,195,6.51
+292,standard,aluminum,380.99,93.09,26.02,nimh,320,5.51
+293,folding,steel,481.54,67.58,16.11,li-ion,294,5.39
+294,mountain,steel,601.6,79.86,25.0,li-ion,262,7.91
+295,road,carbon fiber,234.22,67.0,27.48,li-ion,233,7.53
+296,standard,carbon fiber,348.57,56.29,24.91,lead acid,227,6.0
+297,standard,steel,261.53,43.44,20.98,nimh,270,6.51
+298,mountain,steel,428.41,46.57,25.29,li-ion,172,7.91
+299,road,aluminum,301.15,73.34,26.83,lead acid,244,5.37
+300,mountain,steel,756.48,68.83,22.95,nimh,264,6.45
+301,standard,carbon fiber,684.74,72.62,28.5,li-ion,238,7.51
+302,road,steel,384.29,44.69,23.5,li-ion,250,6.89
+303,folding,steel,737.87,94.35,17.07,lead acid,315,7.02
+304,mountain,carbon fiber,395.4,46.99,27.1,li-ion,244,5.31
+305,standard,aluminum,625.91,29.37,25.84,lead acid,207,6.99
+306,road,carbon fiber,482.14,66.95,35.96,li-ion,146,8.95
+307,folding,carbon fiber,299.95,71.04,24.71,lead acid,157,6.52
+308,standard,aluminum,248.32,59.71,18.35,lead acid,196,6.34
+309,mountain,aluminum,724.66,55.9,31.97,nimh,192,5.07
+310,road,aluminum,263.33,24.69,21.49,lead acid,181,6.46
+311,road,aluminum,700.35,84.63,26.36,lead acid,319,8.44
+312,standard,carbon fiber,371.39,45.41,27.81,li-ion,217,8.14
+313,folding,carbon fiber,542.77,75.68,23.49,nimh,237,5.44
+314,standard,carbon fiber,706.05,60.82,17.62,li-ion,222,5.86
+315,road,aluminum,561.68,37.47,27.66,li-ion,231,6.4
+316,road,aluminum,385.79,44.7,14.68,lead acid,330,7.22
+317,road,steel,508.55,60.8,20.43,li-ion,264,10.93
+318,mountain,aluminum,675.44,62.53,18.41,nimh,216,7.92
+319,standard,carbon fiber,470.74,52.11,25.0,li-ion,274,8.62
+320,road,carbon fiber,221.91,44.53,22.38,nimh,215,1.36
+321,mountain,carbon fiber,572.49,67.87,19.04,nimh,286,8.59
+322,standard,carbon fiber,293.65,69.24,18.47,lead acid,189,4.38
+323,road,carbon fiber,329.06,41.45,25.96,li-ion,245,5.14
+324,folding,steel,752.88,50.31,30.69,nimh,305,8.04
+325,mountain,steel,236.92,60.01,32.79,nimh,342,3.55
+326,folding,carbon fiber,565.58,60.23,32.28,lead acid,233,6.24
+327,mountain,steel,383.99,58.39,18.58,lead acid,226,7.25
+328,mountain,steel,429.61,57.2,29.74,lead acid,207,8.76
+329,folding,steel,218.91,45.72,25.86,lead acid,253,2.34
+330,standard,steel,656.83,56.01,26.04,li-ion,279,6.48
+331,mountain,aluminum,537.67,25.0,28.53,li-ion,259,7.31
+332,folding,steel,452.43,65.05,27.37,lead acid,353,5.29
+333,folding,aluminum,346.17,51.94,28.27,lead acid,320,2.23
+334,mountain,carbon fiber,511.56,58.42,27.38,lead acid,240,6.07
+335,standard,aluminum,537.37,38.63,17.85,other,263,7.97
+336,road,aluminum,269.33,52.14,19.55,nimh,208,6.84
+337,folding,aluminum,754.08,41.02,22.53,lead acid,277,7.6
+338,standard,carbon fiber,459.03,71.2,21.03,nimh,206,4.34
+339,standard,aluminum,743.87,43.79,29.92,lead acid,188,10.26
+340,standard,carbon fiber,300.25,53.28,30.09,li-ion,255,4.53
+341,standard,carbon fiber,279.54,64.33,30.59,li-ion,293,5.53
+342,road,aluminum,325.16,40.14,14.65,nimh,264,4.97
+343,standard,carbon fiber,241.72,79.08,22.83,li-ion,257,10.16
+344,road,carbon fiber,366.88,81.07,19.06,nimh,258,5.28
+345,standard,aluminum,358.48,75.27,29.88,lead acid,238,4.13
+346,folding,carbon fiber,399.0,63.48,21.18,lead acid,277,7.07
+347,road,carbon fiber,538.87,74.17,19.46,nimh,220,6.81
+348,standard,steel,200.6,84.04,30.98,lead acid,332,3.92
+349,folding,carbon fiber,709.05,42.59,16.97,nimh,303,9.36
+350,folding,carbon fiber,422.41,68.84,23.47,li-ion,209,6.78
+351,road,steel,403.2,51.98,38.85,lead acid,264,3.3
+352,standard,steel,321.86,51.23,14.58,li-ion,288,5.72
+353,mountain,carbon fiber,436.22,84.0,24.6,lead acid,324,6.64
+354,mountain,steel,644.22,64.4,28.35,lead acid,267,8.87
+355,mountain,carbon fiber,768.78,33.52,19.58,lead acid,188,6.71
+356,road,carbon fiber,287.64,70.88,21.0,lead acid,274,5.82
+357,standard,steel,417.91,54.11,23.74,nimh,274,7.14
+358,folding,aluminum,745.37,49.87,27.15,lead acid,229,8.25
+359,folding,aluminum,415.81,71.95,26.0,li-ion,250,5.4
+360,standard,carbon fiber,297.25,68.61,24.35,lead acid,204,5.76
+361,standard,carbon fiber,388.49,49.65,31.24,lead acid,191,7.22
+362,standard,carbon fiber,308.05,64.27,24.35,nimh,186,4.09
+363,mountain,steel,504.95,50.34,25.0,nimh,330,7.48
+364,mountain,steel,775.69,59.4,22.37,li-ion,193,7.13
+365,folding,carbon fiber,411.31,50.08,25.46,li-ion,276,7.59
+366,standard,steel,465.33,56.26,30.67,li-ion,171,8.74
+367,folding,aluminum,211.11,54.85,25.0,nimh,237,5.15
+368,road,steel,581.19,80.16,21.7,lead acid,280,9.87
+369,road,steel,318.26,78.78,19.36,nimh,275,4.82
+370,folding,steel,746.87,38.25,25.87,nimh,259,10.86
+371,mountain,steel,667.33,55.39,24.44,nimh,216,7.79
+372,folding,carbon fiber,432.62,60.89,25.43,li-ion,240,5.67
+373,mountain,steel,715.96,72.4,26.44,other,252,8.49
+374,mountain,aluminum,633.42,47.17,24.45,nimh,269,7.39
+375,mountain,carbon fiber,706.95,87.5,21.56,li-ion,217,6.53
+376,folding,aluminum,502.85,69.21,17.64,li-ion,254,6.16
+377,mountain,aluminum,342.27,55.02,20.47,nimh,253,7.99
+378,standard,carbon fiber,256.73,67.8,23.41,nimh,241,4.74
+379,standard,steel,677.84,63.13,25.0,nimh,252,8.83
+380,folding,carbon fiber,618.11,70.9,31.84,lead acid,229,8.65
+381,folding,aluminum,635.82,64.24,30.07,lead acid,252,6.95
+382,standard,aluminum,425.41,67.29,28.23,lead acid,232,4.67
+383,road,carbon fiber,218.01,70.55,25.2,nimh,352,7.77
+384,mountain,aluminum,501.65,50.37,14.7,lead acid,262,4.89
+385,standard,carbon fiber,353.68,77.3,18.4,li-ion,218,7.26
+386,standard,steel,283.14,48.82,25.96,li-ion,180,3.69
+387,standard,steel,352.18,41.0,19.24,li-ion,235,8.39
+388,standard,carbon fiber,693.45,64.84,26.18,lead acid,222,5.56
+389,road,aluminum,517.26,67.32,26.14,lead acid,273,3.98
+390,road,aluminum,447.32,75.15,20.3,lead acid,270,4.46
+391,folding,steel,233.62,70.46,29.66,lead acid,322,4.96
+392,folding,steel,657.13,63.17,25.05,li-ion,255,7.29
+393,mountain,steel,223.71,82.03,28.57,li-ion,262,2.2
+394,road,aluminum,492.05,34.29,28.35,lead acid,170,7.87
+395,road,aluminum,501.35,53.73,21.45,li-ion,313,6.13
+396,standard,carbon fiber,489.94,94.58,27.37,nimh,160,7.14
+397,road,aluminum,742.67,60.48,28.27,li-ion,262,5.54
+398,folding,carbon fiber,472.54,44.82,25.76,li-ion,276,6.73
+399,mountain,carbon fiber,213.81,65.17,25.67,li-ion,246,4.42
+400,road,aluminum,661.33,52.84,17.13,li-ion,289,7.78
+401,mountain,steel,763.68,67.07,21.99,li-ion,196,6.03
+402,mountain,carbon fiber,392.1,78.42,21.38,lead acid,219,4.8
+403,standard,steel,414.01,41.06,19.73,li-ion,259,4.36
+404,mountain,steel,444.32,47.57,24.98,nimh,188,6.55
+405,folding,carbon fiber,562.58,40.32,24.11,lead acid,300,7.94
+406,folding,aluminum,662.53,77.52,27.36,lead acid,148,6.21
+407,road,steel,361.78,95.22,25.35,lead acid,286,6.04
+408,mountain,steel,308.65,35.8,15.65,nimh,286,7.15
+409,standard,aluminum,359.38,64.39,17.78,lead acid,170,3.25
+410,mountain,steel,645.12,52.65,20.38,nimh,283,6.63
+411,mountain,carbon fiber,369.28,54.27,19.54,li-ion,274,8.06
+412,standard,carbon fiber,775.09,82.71,25.38,lead acid,299,7.07
+413,road,carbon fiber,521.46,52.02,19.18,nimh,281,7.3
+414,mountain,steel,796.7,57.36,24.9,nimh,353,10.02
+415,standard,steel,281.64,59.03,23.78,lead acid,254,5.06
+416,mountain,aluminum,712.36,46.05,26.02,li-ion,261,8.12
+417,standard,aluminum,320.36,73.97,24.38,nimh,246,6.78
+418,standard,aluminum,493.55,58.9,31.73,nimh,153,6.18
+419,mountain,carbon fiber,448.52,41.94,25.0,li-ion,241,4.91
+420,mountain,steel,660.43,40.51,18.59,li-ion,131,9.24
+421,folding,aluminum,794.3,65.67,30.36,nimh,302,5.62
+422,standard,aluminum,243.82,51.57,24.75,lead acid,265,6.53
+423,mountain,aluminum,332.97,75.16,19.01,li-ion,254,8.69
+424,mountain,carbon fiber,406.2,62.23,17.44,lead acid,214,7.67
+425,standard,steel,350.38,49.48,34.89,lead acid,267,7.23
+426,mountain,steel,440.42,69.21,40.77,li-ion,189,4.87
+427,mountain,steel,322.76,62.97,20.82,li-ion,142,4.25
+428,folding,carbon fiber,272.94,59.06,25.55,li-ion,257,4.91
+429,mountain,steel,761.58,67.75,21.09,li-ion,221,6.4
+430,road,carbon fiber,652.63,60.06,14.51,other,283,7.64
+431,mountain,aluminum,701.85,49.52,26.74,lead acid,201,5.18
+432,mountain,carbon fiber,439.82,67.7,17.87,li-ion,228,5.08
+433,road,carbon fiber,534.67,60.72,22.81,nimh,274,6.08
+434,mountain,steel,215.61,68.56,24.72,lead acid,267,5.53
+435,road,aluminum,753.18,65.69,32.31,nimh,213,9.35
+436,folding,aluminum,633.72,68.97,24.56,li-ion,293,7.23
+437,road,steel,547.57,57.25,32.37,nimh,353,7.1
+438,standard,aluminum,287.94,50.15,21.79,nimh,340,7.32
+439,folding,aluminum,303.55,60.23,27.72,lead acid,177,7.27
+440,road,carbon fiber,598.6,39.25,19.49,nimh,246,7.16
+441,mountain,carbon fiber,590.8,43.12,18.42,lead acid,186,6.56
+442,standard,carbon fiber,480.94,74.63,24.92,li-ion,299,8.42
+443,road,carbon fiber,613.91,49.15,19.26,li-ion,183,4.84
+444,standard,carbon fiber,265.43,70.27,33.68,li-ion,168,6.94
+445,folding,aluminum,467.73,81.23,20.99,other,189,5.65
+446,road,steel,800.0,58.37,31.38,li-ion,246,10.83
+447,mountain,carbon fiber,737.27,66.75,24.51,lead acid,303,5.68
+448,mountain,carbon fiber,553.88,31.32,32.47,lead acid,247,7.44
+449,standard,aluminum,420.31,52.69,18.76,li-ion,230,5.09
+450,mountain,aluminum,242.02,73.37,25.0,nimh,210,6.59
+451,standard,steel,670.64,57.67,13.77,lead acid,238,9.85
+452,mountain,carbon fiber,339.87,47.07,26.66,li-ion,258,6.86
+453,mountain,steel,720.16,54.03,20.96,nimh,307,8.74
+454,road,steel,344.37,78.95,16.57,lead acid,276,5.09
+455,mountain,aluminum,716.56,80.81,16.66,li-ion,219,8.15
+456,standard,aluminum,796.4,58.94,29.3,nimh,196,7.82
+457,folding,carbon fiber,531.67,48.49,28.29,li-ion,285,6.21
+458,folding,steel,510.96,65.79,25.0,li-ion,209,8.73
+459,standard,carbon fiber,333.57,88.14,30.98,nimh,199,7.38
+460,standard,carbon fiber,252.23,54.13,24.23,lead acid,222,3.81
+461,mountain,steel,486.64,85.36,25.61,nimh,230,5.9
+462,mountain,steel,477.94,29.53,31.85,nimh,231,2.46
+463,folding,steel,402.3,66.22,29.12,li-ion,216,7.01
+464,folding,steel,567.38,76.43,28.43,lead acid,279,7.56
+465,mountain,aluminum,590.2,44.32,30.73,nimh,291,5.76
+466,standard,steel,400.2,63.72,27.56,lead acid,236,8.23
+467,road,steel,614.21,43.67,28.2,li-ion,203,7.14
+468,standard,aluminum,513.66,60.28,25.52,lead acid,191,3.72
+469,folding,steel,703.35,60.03,20.26,lead acid,222,10.07
+470,mountain,steel,610.01,74.46,32.37,li-ion,245,7.67
+471,standard,carbon fiber,286.44,55.88,27.31,nimh,299,6.91
+472,folding,carbon fiber,499.85,75.66,25.0,li-ion,298,7.79
+473,road,carbon fiber,323.06,58.14,22.28,lead acid,265,3.44
+474,road,steel,696.45,79.79,17.57,lead acid,197,8.84
+475,standard,carbon fiber,311.66,49.9,14.06,nimh,213,5.29
+476,folding,steel,704.25,97.73,28.91,li-ion,221,7.06
+477,standard,aluminum,323.36,65.73,26.32,li-ion,255,8.53
+478,mountain,steel,205.7,72.76,19.29,lead acid,313,6.09
+479,mountain,steel,583.29,90.81,21.95,lead acid,250,7.05
+480,folding,steel,379.19,55.68,10.61,nimh,211,5.68
+481,standard,steel,480.34,53.24,27.99,li-ion,216,4.41
+482,folding,aluminum,509.15,72.56,25.41,li-ion,313,7.75
+483,folding,steel,225.51,69.52,18.29,lead acid,271,6.0
+484,folding,carbon fiber,428.11,49.76,25.37,nimh,282,5.92
+485,road,steel,332.07,69.48,23.99,lead acid,182,5.45
+486,folding,steel,216.51,77.79,24.73,nimh,270,2.64
+487,mountain,carbon fiber,616.31,79.82,33.46,nimh,351,7.03
+488,mountain,aluminum,483.04,75.58,24.47,lead acid,273,6.76
+489,mountain,steel,498.95,61.05,30.63,lead acid,221,10.16
+490,mountain,steel,442.22,52.23,17.37,nimh,265,5.24
+491,road,aluminum,691.35,69.22,28.93,lead acid,241,6.3
+492,standard,steel,310.46,47.32,26.55,lead acid,217,5.56
+493,road,steel,292.15,59.34,24.82,li-ion,232,6.76
+494,folding,steel,224.31,47.4,34.18,li-ion,146,4.74
+495,mountain,steel,535.87,52.66,25.86,li-ion,218,4.56
+496,road,carbon fiber,604.6,79.57,26.48,lead acid,216,7.35
+497,road,steel,426.31,62.9,31.57,li-ion,233,6.44
+498,standard,carbon fiber,684.44,78.77,24.85,lead acid,212,8.9
+499,standard,carbon fiber,477.34,79.91,25.9,lead acid,232,8.64
+500,folding,steel,513.96,81.48,32.08,nimh,199,6.82
+501,road,aluminum,375.59,62.8,28.67,nimh,267,6.95
+502,folding,steel,743.27,36.74,26.56,other,205,5.32
+503,mountain,carbon fiber,319.16,35.32,21.6,lead acid,232,4.06
+504,road,steel,434.72,66.44,32.53,nimh,170,5.13
+505,folding,steel,732.17,57.99,28.39,lead acid,197,10.02
+506,mountain,steel,354.88,65.76,25.0,li-ion,140,6.12
+507,standard,steel,796.1,25.32,23.58,lead acid,269,5.96
+508,standard,steel,402.9,81.1,23.75,nimh,298,5.08
+509,mountain,aluminum,484.84,69.08,27.52,li-ion,227,6.87
+510,folding,aluminum,732.47,89.19,25.0,lead acid,262,6.23
+511,mountain,steel,621.41,61.61,22.78,nimh,211,7.88
+512,road,aluminum,495.35,75.57,30.31,nimh,275,6.54
+513,folding,steel,743.57,70.55,17.56,lead acid,237,7.37
+514,mountain,steel,321.56,83.29,34.29,nimh,251,6.55
+515,folding,steel,789.79,53.12,23.09,nimh,261,8.42
+516,mountain,steel,579.99,72.17,28.95,lead acid,251,6.28
+517,standard,steel,391.5,52.59,20.34,li-ion,238,6.54
+518,mountain,carbon fiber,345.57,64.94,26.36,li-ion,232,5.56
+519,road,carbon fiber,599.8,86.86,22.94,li-ion,156,9.26
+520,mountain,carbon fiber,238.42,57.44,18.23,lead acid,131,4.15
+521,mountain,aluminum,607.3,73.35,23.29,nimh,265,6.35
+522,standard,aluminum,709.65,64.03,16.33,li-ion,243,6.68
+523,road,aluminum,485.74,50.16,22.68,other,217,7.49
+524,road,steel,641.22,69.58,19.41,nimh,156,9.33
+525,standard,steel,423.61,64.19,24.19,other,212,7.4
+526,mountain,carbon fiber,503.75,78.89,30.55,lead acid,240,5.14
+527,standard,steel,783.79,24.94,29.23,nimh,266,4.63
+528,mountain,carbon fiber,561.98,38.13,28.04,lead acid,225,6.68
+529,folding,steel,485.14,57.0,18.0,nimh,161,6.74
+530,standard,steel,323.96,55.77,25.88,li-ion,240,5.79
+531,mountain,carbon fiber,735.77,56.02,24.11,nimh,202,8.77
+532,folding,aluminum,771.19,44.31,15.51,li-ion,337,7.0
+533,mountain,steel,280.14,59.82,33.5,nimh,281,4.72
+534,folding,steel,559.28,57.08,25.0,lead acid,232,6.57
+535,road,steel,397.2,61.23,29.18,li-ion,210,4.96
+536,mountain,carbon fiber,629.51,53.51,24.66,nimh,234,6.72
+537,road,aluminum,645.42,51.59,16.28,nimh,227,5.51
+538,standard,aluminum,525.66,66.87,34.11,nimh,246,6.23
+539,road,aluminum,362.98,73.1,21.12,lead acid,174,3.68
+540,standard,aluminum,768.48,73.73,25.46,lead acid,263,6.77
+541,road,steel,726.76,79.83,25.52,lead acid,239,8.5
+542,road,aluminum,498.35,62.1,22.55,li-ion,208,6.42
+543,road,carbon fiber,443.12,58.31,17.37,li-ion,226,3.32
+544,standard,carbon fiber,227.61,50.93,20.46,nimh,241,4.93
+545,standard,aluminum,760.38,64.82,38.4,li-ion,233,8.01
+546,folding,aluminum,507.65,48.04,26.45,nimh,182,6.58
+547,mountain,steel,498.65,74.28,28.3,nimh,259,4.05
+548,mountain,steel,524.76,67.58,14.98,lead acid,295,7.37
+549,road,carbon fiber,462.63,39.09,16.8,lead acid,291,5.67
+550,standard,steel,690.45,56.5,22.71,nimh,244,7.02
+551,folding,steel,795.2,84.38,22.59,nimh,224,5.88
+552,folding,aluminum,370.79,56.52,14.97,lead acid,172,6.89
+553,mountain,steel,211.71,74.06,29.48,nimh,305,6.92
+554,standard,steel,582.09,51.71,32.02,lead acid,290,7.83
+555,mountain,aluminum,380.09,64.07,29.52,lead acid,248,5.21
+556,mountain,carbon fiber,374.99,77.22,21.81,li-ion,228,6.21
+557,standard,aluminum,613.01,64.45,19.44,li-ion,294,6.15
+558,standard,aluminum,649.02,59.62,20.3,lead acid,192,8.04
+559,folding,aluminum,627.11,59.94,19.51,lead acid,234,7.28
+560,folding,carbon fiber,717.76,53.21,22.44,lead acid,172,7.78
+561,standard,carbon fiber,679.34,63.54,19.16,li-ion,218,7.66
+562,road,carbon fiber,742.07,57.03,33.28,li-ion,325,9.6
+563,road,carbon fiber,311.36,69.67,23.05,li-ion,200,6.05
+564,mountain,aluminum,366.28,61.62,17.75,other,211,8.28
+565,folding,carbon fiber,439.52,57.41,26.23,nimh,218,9.27
+566,standard,carbon fiber,203.3,98.72,14.19,li-ion,297,5.11
+567,road,carbon fiber,214.41,79.21,32.8,nimh,186,7.52
+568,folding,steel,431.72,42.0,17.82,lead acid,246,6.8
+569,mountain,carbon fiber,779.59,77.56,21.69,other,292,9.02
+570,standard,carbon fiber,298.45,60.16,28.22,lead acid,247,4.39
+571,standard,aluminum,210.21,53.59,32.71,nimh,251,7.24
+572,folding,carbon fiber,522.36,60.83,21.01,lead acid,244,4.9
+573,road,carbon fiber,705.15,83.78,25.03,nimh,260,6.74
+574,standard,carbon fiber,596.8,60.28,17.79,lead acid,239,6.74
+575,mountain,carbon fiber,359.68,64.39,22.47,nimh,288,7.4
+576,mountain,steel,536.47,60.11,22.68,lead acid,268,3.33
+577,folding,steel,319.76,81.76,37.99,nimh,275,5.82
+578,standard,aluminum,336.27,73.3,32.49,nimh,278,6.67
+579,mountain,aluminum,629.81,93.11,15.38,lead acid,274,7.26
+580,mountain,carbon fiber,795.5,45.6,29.72,lead acid,350,8.53
+581,road,carbon fiber,268.43,31.84,26.65,nimh,100,6.94
+582,road,aluminum,251.93,98.89,24.76,lead acid,286,5.18
+583,folding,steel,638.22,61.17,27.86,lead acid,223,7.89
+584,mountain,carbon fiber,707.85,38.11,16.86,lead acid,227,8.35
+585,folding,steel,241.42,63.17,29.72,nimh,181,4.08
+586,road,steel,293.35,35.3,28.98,lead acid,264,6.48
+587,folding,steel,363.58,68.83,27.39,nimh,294,7.05
+588,road,aluminum,413.71,36.84,25.07,li-ion,262,7.23
+589,road,aluminum,456.03,67.92,28.94,li-ion,287,4.73
+590,folding,carbon fiber,223.11,53.96,29.52,li-ion,215,6.3
+591,mountain,aluminum,453.93,68.03,14.68,lead acid,258,8.37
+592,folding,steel,330.27,28.92,28.4,li-ion,318,4.86
+593,road,aluminum,631.92,76.26,22.94,li-ion,268,6.87
+594,folding,carbon fiber,412.21,65.62,17.75,nimh,279,6.89
+595,folding,steel,516.96,36.98,20.6,lead acid,174,5.8
+596,standard,carbon fiber,698.55,48.16,32.98,li-ion,184,7.45
+597,standard,aluminum,458.13,49.53,25.87,other,171,4.52
+598,mountain,aluminum,343.47,71.67,26.65,li-ion,217,6.25
+599,road,steel,785.89,65.07,21.92,lead acid,270,6.77
+600,standard,steel,685.04,72.93,29.57,lead acid,311,7.19
+601,folding,aluminum,491.45,50.19,20.98,nimh,409,4.61
+602,folding,steel,264.53,56.02,30.56,lead acid,236,5.42
+603,mountain,steel,324.56,81.27,22.94,nimh,202,7.22
+604,folding,carbon fiber,284.34,53.08,25.81,nimh,213,4.67
+605,mountain,steel,383.09,83.5,28.27,lead acid,294,4.45
+606,folding,carbon fiber,241.12,35.96,25.03,lead acid,200,8.0
+607,folding,aluminum,278.94,86.49,30.12,nimh,331,3.55
+608,folding,aluminum,795.8,77.3,25.5,li-ion,194,8.77
+609,folding,steel,724.06,58.21,31.1,nimh,209,6.33
+610,folding,carbon fiber,623.21,65.79,27.31,nimh,200,5.02
+611,mountain,steel,239.62,48.0,24.24,lead acid,257,6.02
+612,road,aluminum,694.05,34.84,27.65,li-ion,165,7.4
+613,mountain,carbon fiber,757.08,68.21,28.1,lead acid,251,7.09
+614,road,aluminum,216.81,65.29,25.02,lead acid,293,6.61
+615,folding,aluminum,785.29,79.78,26.14,nimh,257,9.33
+616,folding,aluminum,632.82,71.8,31.72,nimh,155,5.28
+617,standard,carbon fiber,341.67,63.05,23.71,li-ion,259,6.68
+618,road,steel,551.18,41.23,15.82,lead acid,226,4.81
+619,folding,carbon fiber,271.14,55.09,26.41,lead acid,250,3.76
+620,folding,steel,466.53,61.76,31.16,nimh,264,6.49
+621,mountain,carbon fiber,521.76,81.26,22.88,lead acid,190,7.57
+622,standard,carbon fiber,347.37,64.78,27.37,lead acid,259,6.65
+623,road,steel,577.59,57.92,23.71,lead acid,215,5.76
+624,road,steel,783.49,72.67,29.02,li-ion,252,8.15
+625,standard,aluminum,758.88,58.36,22.77,li-ion,236,8.07
+626,mountain,steel,538.27,85.58,20.33,lead acid,255,6.49
+627,mountain,carbon fiber,604.3,60.92,27.62,lead acid,311,7.66
+628,standard,aluminum,220.41,77.61,18.21,nimh,189,4.92
+629,folding,steel,337.77,47.93,21.92,other,298,2.82
+630,road,steel,504.65,43.55,27.61,other,279,5.47
+631,road,steel,533.77,63.48,20.28,li-ion,370,7.15
+632,folding,steel,482.74,51.52,25.36,li-ion,302,4.78
+633,road,steel,634.62,42.6,23.61,li-ion,215,6.83
+634,standard,carbon fiber,398.4,47.05,22.02,li-ion,249,4.8
+635,road,aluminum,663.73,52.19,19.79,other,254,10.0
+636,mountain,aluminum,251.03,51.11,34.41,nimh,374,5.76
+637,road,carbon fiber,607.9,50.78,31.86,li-ion,167,6.06
+638,standard,aluminum,432.32,60.68,25.06,lead acid,206,5.78
+639,road,steel,253.73,68.25,25.29,nimh,230,4.73
+640,mountain,steel,462.93,42.55,25.29,nimh,228,6.53
+641,standard,aluminum,778.99,45.56,27.53,li-ion,172,5.51
+642,folding,carbon fiber,343.17,75.09,30.68,nimh,222,6.11
+643,folding,aluminum,395.1,50.78,25.81,lead acid,292,4.18
+644,mountain,aluminum,604.9,28.29,20.58,nimh,262,7.76
+645,folding,aluminum,296.05,55.49,33.29,nimh,265,5.72
+646,folding,steel,518.46,52.5,31.29,li-ion,302,5.94
+647,road,carbon fiber,348.87,47.4,34.84,nimh,199,6.49
+648,folding,aluminum,475.84,45.26,18.32,nimh,234,8.03
+649,road,steel,523.26,79.58,25.0,li-ion,258,6.3
+650,folding,carbon fiber,749.57,63.42,23.49,other,210,8.94
+651,mountain,carbon fiber,390.6,61.27,26.51,other,221,4.69
+652,standard,carbon fiber,376.79,82.62,26.55,nimh,254,6.8
+653,standard,carbon fiber,383.69,58.12,23.61,li-ion,305,8.16
+654,mountain,steel,643.32,47.6,17.53,li-ion,242,9.85
+655,folding,carbon fiber,468.33,52.34,23.87,nimh,294,6.49
+656,road,steel,663.43,52.28,45.64,nimh,202,7.47
+657,folding,aluminum,699.15,68.6,15.96,nimh,287,6.53
+658,road,carbon fiber,733.07,61.88,24.59,nimh,301,7.82
+659,folding,steel,360.58,56.87,18.54,li-ion,177,6.19
+660,mountain,carbon fiber,633.12,59.32,30.7,lead acid,180,6.52
+661,folding,steel,368.38,59.42,26.8,li-ion,311,6.22
+662,road,carbon fiber,261.23,85.62,27.43,lead acid,249,8.16
+663,mountain,steel,767.88,97.1,19.95,nimh,313,9.12
+664,road,steel,610.31,61.34,29.5,other,337,6.14
+665,folding,carbon fiber,439.22,62.04,27.69,li-ion,216,7.09
+666,folding,carbon fiber,790.7,64.26,29.24,li-ion,184,7.74
+667,standard,steel,595.9,60.46,24.48,nimh,249,8.22
+668,standard,steel,407.1,49.84,27.0,nimh,244,7.39
+669,folding,steel,631.62,75.49,21.82,li-ion,278,6.54
+670,road,carbon fiber,522.06,54.59,30.05,lead acid,258,6.8
+671,folding,carbon fiber,368.68,55.73,20.78,li-ion,231,1.89
+672,mountain,carbon fiber,370.19,63.43,22.08,li-ion,248,5.75
+673,folding,steel,230.32,57.98,33.84,lead acid,172,4.5
+674,folding,carbon fiber,620.81,58.14,32.01,nimh,192,6.58
+675,folding,carbon fiber,664.93,65.61,20.03,lead acid,194,8.89
+676,folding,aluminum,765.18,65.86,25.45,li-ion,227,7.92
+677,folding,carbon fiber,791.9,70.45,28.93,lead acid,251,6.04
+678,standard,steel,678.44,26.48,23.5,nimh,281,9.36
+679,mountain,steel,507.95,49.97,23.96,nimh,285,6.17
+680,mountain,carbon fiber,395.7,73.0,24.18,li-ion,214,4.55
+681,road,aluminum,686.84,47.54,21.8,li-ion,210,3.29
+682,road,aluminum,453.33,46.82,15.84,lead acid,272,9.04
+683,road,aluminum,765.78,48.33,36.18,lead acid,226,7.34
+684,mountain,steel,420.61,67.62,19.12,nimh,345,5.54
+685,mountain,carbon fiber,230.62,44.62,23.67,lead acid,180,5.7
+686,road,carbon fiber,585.09,55.75,19.86,lead acid,253,7.89
+687,folding,carbon fiber,759.78,42.61,30.8,li-ion,304,7.93
+688,folding,aluminum,726.46,105.04,23.14,li-ion,170,6.69
+689,folding,carbon fiber,450.33,50.53,25.0,li-ion,154,7.21
+690,mountain,carbon fiber,259.43,80.9,19.19,lead acid,312,4.17
+691,standard,carbon fiber,572.19,52.79,17.68,lead acid,256,7.54
+692,road,carbon fiber,762.78,54.26,27.21,lead acid,225,6.9
+693,road,aluminum,602.2,66.17,20.13,li-ion,225,6.05
+694,folding,carbon fiber,552.98,53.37,29.52,li-ion,262,7.14
+695,standard,steel,690.15,70.8,30.78,li-ion,255,9.03
+696,folding,steel,218.61,71.19,26.97,lead acid,267,6.43
+697,mountain,carbon fiber,201.5,52.02,34.92,lead acid,274,5.45
+698,folding,aluminum,397.5,77.77,27.7,lead acid,291,6.44
+699,standard,aluminum,719.56,40.0,22.56,lead acid,254,7.41
+700,standard,aluminum,680.54,32.91,23.52,nimh,223,7.13
+701,standard,aluminum,259.13,74.79,24.02,lead acid,315,7.1
+702,mountain,aluminum,772.99,76.7,23.46,nimh,321,8.23
+703,standard,carbon fiber,565.28,28.2,36.06,lead acid,258,8.61
+704,folding,steel,208.7,78.68,27.8,li-ion,238,5.46
+705,folding,steel,541.87,61.99,31.83,li-ion,197,8.01
+706,standard,carbon fiber,248.62,57.31,29.12,li-ion,207,5.97
+707,mountain,steel,616.91,60.13,22.31,li-ion,199,6.47
+708,mountain,steel,405.0,60.4,22.25,nimh,267,8.09
+709,mountain,carbon fiber,786.19,58.02,25.57,li-ion,240,6.2
+710,standard,steel,256.13,57.95,28.77,nimh,242,5.01
+711,road,carbon fiber,560.48,66.99,28.16,nimh,349,8.19
+712,mountain,aluminum,428.71,57.29,15.96,li-ion,262,4.22
+713,standard,aluminum,688.34,74.61,27.97,li-ion,223,9.15
+714,folding,steel,254.33,59.56,22.63,li-ion,310,4.19
+715,standard,steel,598.0,49.05,15.59,li-ion,354,4.91
+716,folding,carbon fiber,670.34,62.24,20.95,li-ion,362,7.45
+717,mountain,steel,714.16,72.64,15.17,nimh,235,7.66
+718,standard,carbon fiber,549.67,71.08,19.13,nimh,242,6.73
+719,road,steel,244.42,77.58,20.76,lead acid,257,5.84
+720,standard,carbon fiber,301.75,58.76,20.9,li-ion,264,5.89
+721,standard,steel,251.63,83.35,24.02,lead acid,282,5.76
+722,road,carbon fiber,310.76,63.22,22.14,li-ion,270,4.26
+723,folding,steel,398.1,60.04,23.79,li-ion,339,8.53
+724,folding,steel,552.08,88.84,26.86,lead acid,252,5.69
+725,road,steel,387.89,55.05,28.96,li-ion,233,6.38
+726,standard,steel,309.85,48.72,16.28,lead acid,304,2.91
+727,mountain,steel,356.98,54.22,24.64,lead acid,178,4.4
+728,standard,aluminum,667.63,67.68,23.95,other,344,6.2
+729,mountain,aluminum,655.63,71.19,18.88,lead acid,208,7.67
+730,road,carbon fiber,290.35,72.43,18.35,other,269,7.3
+731,road,carbon fiber,648.72,68.51,25.15,li-ion,135,6.33
+732,road,carbon fiber,483.34,92.91,33.46,lead acid,248,7.42
+733,folding,steel,324.26,55.0,28.92,nimh,202,6.54
+734,standard,aluminum,715.36,104.15,18.14,li-ion,228,8.74
+735,road,steel,526.56,68.75,25.32,nimh,100,5.61
+736,road,carbon fiber,462.03,57.57,17.99,other,153,5.61
+737,road,steel,440.12,60.06,23.3,nimh,267,7.43
+738,mountain,carbon fiber,700.65,78.88,24.46,lead acid,136,9.34
+739,standard,carbon fiber,506.45,71.19,25.0,nimh,244,6.4
+740,folding,aluminum,533.17,71.98,42.84,li-ion,219,8.06
+741,standard,steel,594.7,51.19,22.23,li-ion,232,6.66
+742,folding,aluminum,782.89,47.9,21.32,nimh,206,8.41
+743,standard,carbon fiber,302.95,36.38,21.54,nimh,314,5.94
+744,road,steel,517.56,62.61,16.4,lead acid,269,7.87
+745,mountain,carbon fiber,764.28,90.37,32.17,lead acid,230,8.17
+746,standard,carbon fiber,278.04,65.13,30.46,nimh,292,2.3
+747,standard,steel,411.61,57.47,19.71,lead acid,185,6.89
+748,mountain,steel,632.22,52.04,18.35,lead acid,220,7.84
+749,mountain,aluminum,203.6,47.61,21.88,nimh,318,4.7
+750,road,carbon fiber,421.81,64.83,17.35,li-ion,270,5.92
+751,mountain,aluminum,561.08,40.67,24.7,other,203,6.8
+752,folding,carbon fiber,566.78,67.05,31.11,lead acid,220,5.72
+753,mountain,carbon fiber,410.11,68.4,28.07,nimh,359,8.16
+754,folding,steel,329.66,50.59,17.96,lead acid,199,4.72
+755,road,carbon fiber,687.14,67.92,18.25,lead acid,193,6.78
+756,folding,carbon fiber,627.41,65.2,27.49,nimh,307,5.87
+757,standard,carbon fiber,247.42,81.72,26.8,li-ion,293,5.08
+758,road,carbon fiber,281.94,52.2,18.64,lead acid,272,6.82
+759,standard,carbon fiber,465.63,56.85,23.31,lead acid,306,5.89
+760,folding,carbon fiber,527.76,48.8,29.08,li-ion,248,9.47
+761,road,aluminum,760.68,56.16,26.5,nimh,175,7.98
+762,folding,carbon fiber,731.27,86.19,27.83,nimh,216,9.03
+763,folding,steel,619.91,60.42,22.11,li-ion,228,5.63
+764,standard,carbon fiber,282.54,87.86,28.64,nimh,330,4.9
+765,standard,steel,272.64,57.75,37.23,nimh,253,6.56
+766,road,steel,331.17,71.14,26.32,lead acid,280,4.02
+767,folding,carbon fiber,621.71,64.08,25.2,lead acid,224,7.4
+768,folding,aluminum,374.39,43.2,32.0,other,184,7.49
+769,road,aluminum,722.56,74.63,29.33,nimh,266,9.1
+770,mountain,carbon fiber,622.01,60.46,18.36,li-ion,288,7.41
+771,standard,carbon fiber,349.77,74.75,19.79,other,241,5.52
+772,road,steel,349.17,78.63,23.28,nimh,245,7.18
+773,standard,aluminum,500.75,51.44,25.3,li-ion,230,4.99
+774,standard,aluminum,651.73,58.93,26.95,nimh,235,6.3
+775,mountain,aluminum,234.82,33.47,27.77,nimh,255,4.44
+776,mountain,aluminum,784.69,60.56,27.74,lead acid,390,7.27
+777,road,steel,567.08,51.45,18.42,lead acid,302,6.79
+778,mountain,aluminum,585.69,76.05,24.06,li-ion,295,6.11
+779,road,steel,574.29,76.93,22.72,lead acid,212,6.66
+780,folding,aluminum,554.48,27.0,25.0,nimh,260,4.09
+781,folding,steel,669.73,52.8,16.26,lead acid,287,5.85
+782,standard,steel,749.27,73.01,30.41,lead acid,138,6.84
+783,mountain,steel,535.27,59.58,34.21,lead acid,229,8.92
+784,mountain,steel,626.51,41.58,25.34,lead acid,258,6.83
+785,mountain,carbon fiber,574.59,76.05,25.0,nimh,247,5.5
+786,folding,aluminum,408.0,59.03,16.92,lead acid,163,6.42
+787,standard,steel,381.89,77.12,25.85,nimh,258,5.46
+788,mountain,aluminum,457.23,40.45,22.62,nimh,247,5.37
+789,mountain,carbon fiber,326.06,45.59,18.68,lead acid,293,4.9
+790,standard,steel,545.17,47.29,22.71,lead acid,161,7.42
+791,folding,carbon fiber,235.72,29.95,19.11,nimh,210,4.7
+792,folding,steel,694.65,52.55,22.64,nimh,259,7.55
+793,standard,carbon fiber,582.69,82.01,21.46,other,329,5.65
+794,mountain,carbon fiber,787.69,64.39,32.98,nimh,297,6.5
+795,folding,aluminum,669.13,86.14,22.8,nimh,244,7.61
+796,standard,aluminum,488.74,69.88,26.15,li-ion,218,9.67
+797,folding,aluminum,555.08,41.62,27.74,lead acid,216,6.44
+798,folding,steel,617.21,34.57,25.0,li-ion,260,6.73
+799,mountain,carbon fiber,745.97,72.55,24.07,li-ion,282,8.58
+800,standard,steel,270.24,59.47,26.36,nimh,255,3.85
+801,road,steel,447.92,67.77,14.19,nimh,200,3.3
+802,road,aluminum,781.99,57.69,32.2,nimh,182,7.9
+803,folding,aluminum,284.94,61.69,22.42,nimh,377,4.89
+804,folding,aluminum,378.89,66.48,33.81,nimh,275,4.2
+805,mountain,carbon fiber,292.75,22.41,23.89,other,291,4.21
+806,standard,steel,297.55,76.98,16.95,nimh,221,4.66
+807,road,carbon fiber,265.73,50.33,30.07,lead acid,259,5.16
+808,folding,carbon fiber,307.15,35.98,22.17,nimh,242,5.09
+809,road,aluminum,769.68,47.44,30.17,nimh,328,8.46
+810,mountain,carbon fiber,715.06,93.33,25.42,nimh,195,8.37
+811,mountain,steel,740.87,49.46,16.41,lead acid,379,8.15
+812,folding,aluminum,647.52,73.2,26.76,lead acid,181,8.37
+813,road,aluminum,528.36,71.17,33.19,lead acid,262,7.26
+814,folding,aluminum,711.16,83.67,30.9,lead acid,206,10.44
+815,standard,steel,733.97,32.06,20.48,nimh,281,7.69
+816,mountain,carbon fiber,677.54,62.64,25.48,lead acid,260,6.55
+817,standard,carbon fiber,587.19,55.07,29.37,lead acid,297,4.71
+818,standard,steel,622.91,98.03,25.0,lead acid,159,5.47
+819,standard,carbon fiber,706.65,47.75,31.42,nimh,222,8.74
+820,road,carbon fiber,330.87,43.58,17.44,li-ion,303,4.2
+821,standard,aluminum,787.39,51.37,24.49,li-ion,134,7.58
+822,mountain,steel,624.41,61.95,26.23,nimh,299,6.78
+823,mountain,steel,268.13,66.37,20.06,li-ion,260,7.42
+824,mountain,aluminum,762.48,61.89,24.89,lead acid,221,6.58
+825,folding,steel,679.64,100.38,27.2,nimh,208,6.11
+826,road,aluminum,576.09,38.39,28.87,nimh,238,6.92
+827,folding,steel,780.79,23.0,24.68,other,265,5.88
+828,folding,aluminum,438.02,38.53,20.56,li-ion,181,5.93
+829,standard,steel,788.89,65.93,18.92,li-ion,215,8.53
+830,folding,carbon fiber,774.79,22.22,34.99,nimh,259,6.45
+831,folding,steel,499.25,52.14,33.09,lead acid,225,6.63
+832,mountain,steel,423.91,58.71,32.41,lead acid,254,7.2
+833,folding,steel,618.71,49.52,21.62,lead acid,218,6.39
+834,road,aluminum,717.46,63.73,24.38,nimh,260,6.51
+835,mountain,steel,744.77,69.35,24.18,li-ion,303,8.07
+836,road,carbon fiber,798.2,50.87,33.96,li-ion,231,6.9
+837,road,steel,544.27,72.74,23.66,li-ion,321,9.97
+838,standard,steel,442.52,41.63,29.5,nimh,283,4.34
+839,folding,steel,616.61,55.31,31.42,nimh,227,6.25
+840,road,carbon fiber,404.4,63.19,38.14,lead acid,223,8.3
+841,folding,carbon fiber,703.05,20.0,30.47,lead acid,327,8.77
+842,road,carbon fiber,416.71,73.08,28.25,lead acid,355,8.4
+843,standard,steel,358.18,54.71,22.85,nimh,203,4.29
+844,standard,aluminum,408.9,57.64,21.67,nimh,257,8.4
+845,folding,carbon fiber,357.58,65.52,23.2,lead acid,258,5.54
+846,road,steel,450.93,72.18,25.05,nimh,247,5.42
+847,folding,steel,309.55,54.51,16.6,nimh,207,4.29
+848,mountain,aluminum,242.92,52.32,26.85,lead acid,225,4.29
+849,folding,steel,235.42,69.27,27.95,lead acid,248,5.62
+850,folding,aluminum,512.76,53.51,27.73,nimh,177,5.48
+851,mountain,carbon fiber,329.36,62.71,26.55,nimh,317,3.42
+852,folding,carbon fiber,557.78,46.01,24.99,li-ion,347,6.32
+853,standard,aluminum,534.07,70.83,32.3,li-ion,173,4.6
+854,standard,aluminum,429.91,56.04,26.92,lead acid,245,8.1
+855,mountain,aluminum,334.47,75.21,23.91,lead acid,252,4.99
+856,mountain,steel,700.05,66.37,27.06,lead acid,310,6.74
+857,folding,steel,573.69,36.23,27.86,nimh,148,9.17
+858,road,aluminum,327.26,66.96,25.1,lead acid,254,5.15
+859,standard,carbon fiber,482.44,66.92,22.35,nimh,232,6.52
+860,mountain,steel,728.86,34.14,16.09,nimh,239,8.34
+861,folding,steel,290.65,44.15,32.19,lead acid,176,4.71
+862,standard,steel,393.0,45.04,23.23,li-ion,257,7.61
+863,road,aluminum,479.14,53.33,26.24,nimh,313,6.13
+864,folding,carbon fiber,654.73,60.59,27.0,li-ion,177,7.93
+865,folding,carbon fiber,280.74,57.78,25.84,nimh,282,5.2
+866,standard,carbon fiber,741.77,70.63,23.45,li-ion,279,8.51
+867,folding,steel,474.64,52.78,27.12,nimh,184,6.96
+868,mountain,carbon fiber,313.76,43.57,24.49,li-ion,303,5.54
+869,mountain,aluminum,495.65,86.22,26.12,other,226,9.37
+870,folding,carbon fiber,642.72,52.35,26.89,lead acid,292,6.14
+871,road,steel,532.57,61.37,19.71,nimh,230,5.91
+872,folding,carbon fiber,392.4,54.71,23.33,nimh,230,7.49
+873,standard,aluminum,767.28,52.02,26.13,lead acid,247,8.52
+874,folding,steel,206.6,72.78,24.43,nimh,108,5.98
+875,standard,steel,585.99,56.37,19.47,lead acid,311,5.39
+876,road,aluminum,258.83,64.66,16.62,lead acid,277,3.61
+877,mountain,steel,464.73,65.15,27.88,other,303,7.49
+878,road,steel,511.86,56.17,32.15,lead acid,250,5.67
+879,folding,aluminum,603.4,57.46,31.03,nimh,231,6.51
+880,mountain,aluminum,682.94,87.68,17.57,lead acid,194,6.69
+881,road,aluminum,695.85,70.83,30.73,other,265,8.44
+882,mountain,carbon fiber,246.22,71.3,29.49,lead acid,286,7.58
+883,folding,carbon fiber,365.68,82.96,19.07,li-ion,253,5.61
+884,standard,carbon fiber,564.08,63.11,34.81,lead acid,216,7.37
+885,road,carbon fiber,714.46,77.73,28.48,lead acid,344,6.85
+886,mountain,carbon fiber,205.1,50.48,23.78,li-ion,335,7.12
+887,road,carbon fiber,742.37,72.1,25.8,li-ion,265,8.68
+888,road,steel,775.99,45.65,27.62,li-ion,300,10.59
+889,folding,aluminum,505.85,61.06,27.22,lead acid,255,3.65
+890,mountain,aluminum,288.84,44.62,25.07,li-ion,205,6.15
+891,road,steel,679.04,52.5,35.61,lead acid,197,7.33
+892,mountain,aluminum,345.87,73.46,32.62,lead acid,208,5.78
+893,mountain,steel,316.76,53.18,21.3,lead acid,183,4.15
+894,folding,steel,359.08,40.28,12.85,lead acid,309,7.54
+895,standard,steel,612.71,69.78,19.03,li-ion,260,3.1
+896,road,steel,489.34,64.46,26.42,nimh,309,8.41
+897,standard,carbon fiber,418.81,42.77,30.33,li-ion,259,6.3
+898,road,steel,447.62,77.7,27.95,lead acid,232,7.44
+899,mountain,steel,417.61,52.95,13.83,nimh,226,7.11
+900,mountain,aluminum,564.98,22.96,22.21,lead acid,234,7.42
+901,road,steel,630.12,63.9,22.18,nimh,144,7.07
+902,road,aluminum,350.08,59.66,28.6,nimh,292,5.22
+903,folding,carbon fiber,261.83,93.33,25.18,nimh,234,4.35
+904,road,carbon fiber,661.93,68.39,27.4,lead acid,120,3.79
+905,mountain,aluminum,735.17,63.58,18.34,nimh,224,4.89
+906,standard,carbon fiber,481.24,75.53,33.57,li-ion,214,9.7
+907,mountain,steel,720.76,45.75,34.22,nimh,285,9.86
+908,folding,steel,656.53,54.28,23.01,lead acid,248,9.86
+909,road,steel,770.29,54.97,24.54,lead acid,190,7.62
+910,road,steel,723.16,57.83,25.0,li-ion,222,5.89
+911,road,steel,485.44,35.33,13.11,nimh,298,4.13
+912,folding,carbon fiber,209.3,35.21,24.03,li-ion,276,6.4
+913,road,carbon fiber,260.33,56.85,16.33,lead acid,246,6.62
+914,road,aluminum,311.96,33.87,17.29,other,248,6.81
+915,folding,steel,424.51,63.44,27.57,nimh,232,8.23
+916,mountain,carbon fiber,676.04,69.19,32.98,lead acid,296,6.23
+917,road,carbon fiber,224.61,58.49,28.23,lead acid,182,6.28
+918,standard,steel,588.69,45.56,24.8,lead acid,270,7.22
+919,standard,steel,671.24,85.63,27.66,li-ion,199,7.09
+920,folding,steel,253.43,56.85,20.97,li-ion,271,6.14
+921,mountain,aluminum,285.54,61.35,24.07,nimh,185,3.16
+922,standard,carbon fiber,284.04,52.18,29.41,nimh,287,3.83
+923,road,steel,285.84,64.98,30.89,li-ion,353,7.11
+924,standard,carbon fiber,389.99,42.23,23.17,nimh,213,5.84
+925,mountain,aluminum,573.39,34.39,18.57,lead acid,228,4.03
+926,road,carbon fiber,727.96,90.78,19.45,other,334,7.9
+927,road,carbon fiber,559.88,52.65,31.91,lead acid,293,8.16
+928,standard,aluminum,282.84,51.55,23.6,lead acid,251,4.3
+929,mountain,carbon fiber,490.25,33.65,25.78,nimh,260,7.65
+930,road,aluminum,335.37,56.84,24.75,li-ion,298,4.32
+931,folding,aluminum,455.13,57.96,25.67,lead acid,207,6.35
+932,mountain,carbon fiber,203.0,75.96,15.3,lead acid,313,7.08
+933,mountain,aluminum,490.55,72.37,25.0,nimh,271,4.42
+934,road,steel,427.51,64.72,19.06,nimh,259,4.33
+935,folding,steel,497.45,66.59,19.43,li-ion,234,6.38
+936,road,carbon fiber,460.83,84.48,25.2,li-ion,227,7.02
+937,road,carbon fiber,712.66,43.52,24.09,lead acid,296,7.57
+938,standard,aluminum,640.02,41.55,19.24,nimh,239,7.94
+939,mountain,carbon fiber,263.63,40.17,21.24,lead acid,287,5.56
+940,folding,aluminum,373.19,70.48,19.07,li-ion,293,6.7
+941,standard,carbon fiber,511.26,65.5,32.12,nimh,233,6.25
+942,folding,aluminum,247.12,80.94,25.56,nimh,271,7.66
+943,folding,steel,613.31,41.47,27.39,nimh,251,6.91
+944,road,aluminum,231.52,40.04,30.36,lead acid,220,3.13
+945,road,aluminum,751.08,60.29,19.46,li-ion,311,8.35
+946,road,steel,437.42,99.52,27.74,li-ion,255,4.57
+947,standard,steel,415.21,82.69,25.94,nimh,257,7.03
+948,mountain,carbon fiber,566.48,54.64,29.29,li-ion,249,7.21
+949,standard,aluminum,373.79,48.66,22.92,li-ion,317,4.83
+950,standard,steel,575.79,52.85,24.09,other,187,5.55
+951,folding,aluminum,244.12,47.63,21.54,li-ion,199,5.34
+952,mountain,steel,413.41,52.55,31.99,nimh,222,4.1
+953,folding,aluminum,416.11,83.12,21.65,li-ion,312,7.25
+954,standard,carbon fiber,683.24,67.71,28.03,li-ion,182,5.33
+955,folding,carbon fiber,512.46,74.48,17.93,nimh,270,5.53
+956,folding,steel,586.29,73.7,27.3,lead acid,241,5.77
+957,mountain,steel,774.49,44.64,17.18,nimh,235,7.81
+958,folding,steel,547.87,50.07,21.78,li-ion,211,7.76
+959,mountain,aluminum,359.98,41.11,27.7,li-ion,289,6.03
+960,road,aluminum,691.05,63.37,27.63,nimh,313,8.34
+961,road,carbon fiber,791.3,74.09,22.18,li-ion,258,6.12
+962,standard,aluminum,274.14,63.49,19.59,li-ion,220,4.28
+963,standard,carbon fiber,374.69,53.45,18.77,nimh,291,4.87
+964,standard,steel,702.75,78.8,22.52,other,212,7.38
+965,standard,aluminum,578.79,59.62,21.65,li-ion,226,5.72
+966,standard,carbon fiber,257.63,54.82,20.19,li-ion,314,6.06
+967,road,carbon fiber,250.73,50.09,33.06,lead acid,297,6.64
+968,mountain,aluminum,389.39,65.13,27.55,li-ion,324,7.73
+969,road,carbon fiber,387.29,77.67,18.84,other,258,5.01
+970,standard,steel,284.64,59.85,17.13,nimh,242,5.68
+971,mountain,aluminum,637.02,95.76,14.56,li-ion,223,6.88
+972,folding,steel,301.45,46.57,22.88,lead acid,202,3.66
+973,mountain,steel,316.46,59.75,26.07,other,313,3.94
+974,road,aluminum,425.11,74.54,29.45,lead acid,298,6.94
+975,mountain,steel,244.72,55.59,20.22,nimh,293,3.92
+976,folding,aluminum,365.38,22.31,25.0,li-ion,314,4.98
+977,mountain,carbon fiber,206.9,47.93,30.13,nimh,252,7.05
+978,mountain,steel,286.14,86.93,25.0,lead acid,339,3.73
+979,folding,aluminum,692.25,37.84,21.25,li-ion,255,3.41
+980,folding,carbon fiber,734.57,65.24,12.82,lead acid,347,6.69
+981,folding,carbon fiber,673.34,38.41,25.0,lead acid,276,8.9
+982,mountain,carbon fiber,626.81,39.09,20.48,lead acid,244,5.62
+983,standard,aluminum,338.67,39.57,25.0,nimh,236,3.92
+984,folding,steel,753.48,46.24,23.71,lead acid,234,7.93
+985,standard,carbon fiber,582.39,50.15,32.62,li-ion,206,6.38
+986,folding,aluminum,354.28,63.17,31.56,nimh,212,6.32
+987,folding,carbon fiber,615.41,64.39,17.31,li-ion,188,6.18
+988,standard,carbon fiber,746.27,44.37,21.9,li-ion,297,6.52
+989,folding,steel,586.89,48.07,25.85,lead acid,267,4.06
+990,standard,steel,226.11,44.68,21.76,nimh,268,6.0
+991,mountain,steel,457.53,86.58,24.16,li-ion,274,4.39
+992,mountain,steel,791.6,75.38,22.23,nimh,256,7.94
+993,standard,steel,635.22,53.02,21.03,li-ion,366,8.58
+994,road,steel,778.69,37.05,26.06,lead acid,268,9.5
+995,standard,aluminum,402.6,42.8,18.73,lead acid,277,4.97
+996,mountain,steel,399.3,87.05,19.02,lead acid,300,7.51
+997,folding,steel,777.79,73.54,28.52,li-ion,251,8.57
+998,folding,steel,588.09,70.41,21.99,li-ion,247,7.93
+999,mountain,steel,628.61,56.66,33.27,lead acid,247,6.17
+1000,folding,steel,396.6,50.6,17.52,li-ion,207,7.31
+1001,mountain,aluminum,469.23,49.67,22.07,li-ion,232,5.93
+1002,folding,aluminum,558.98,65.43,16.97,lead acid,228,6.47
+1003,road,steel,520.26,56.78,25.52,lead acid,236,7.75
+1004,mountain,aluminum,476.14,48.49,22.84,li-ion,239,7.3
+1005,road,steel,721.66,63.51,26.36,nimh,176,7.1
+1006,mountain,steel,375.29,50.13,26.52,lead acid,209,4.5
+1007,folding,steel,761.28,52.58,29.22,lead acid,247,8.84
+1008,folding,carbon fiber,643.92,47.46,24.01,nimh,261,7.41
+1009,mountain,steel,229.11,31.98,32.47,li-ion,176,6.56
+1010,folding,aluminum,363.28,33.45,25.38,lead acid,176,7.59
+1011,mountain,aluminum,415.51,83.56,24.19,nimh,270,7.07
+1012,standard,steel,728.26,79.99,24.79,lead acid,242,8.21
+1013,road,carbon fiber,557.48,41.7,28.94,nimh,251,6.24
+1014,folding,aluminum,360.28,39.88,25.73,nimh,185,6.61
+1015,mountain,steel,725.86,62.15,28.99,lead acid,338,7.22
+1016,standard,steel,670.94,78.11,35.35,nimh,307,8.96
+1017,mountain,carbon fiber,678.14,63.69,25.04,lead acid,306,5.68
+1018,mountain,steel,370.49,75.35,21.95,li-ion,231,6.77
+1019,mountain,carbon fiber,601.3,73.53,20.86,lead acid,248,6.81
+1020,folding,steel,766.38,74.6,32.5,li-ion,365,10.02
+1021,folding,aluminum,659.53,59.09,24.83,lead acid,242,8.78
+1022,standard,aluminum,335.67,60.78,24.99,nimh,377,3.73
+1023,standard,aluminum,609.4,85.48,20.97,li-ion,322,7.36
+1024,mountain,aluminum,503.15,76.56,21.88,nimh,366,3.69
+1025,folding,steel,264.23,45.77,26.19,li-ion,231,6.67
+1026,mountain,aluminum,584.19,70.83,37.77,nimh,222,7.48
+1027,standard,steel,501.95,52.87,20.04,nimh,252,4.81
+1028,road,aluminum,287.34,72.18,28.64,other,230,5.42
+1029,standard,steel,311.06,52.83,22.43,lead acid,235,6.92
+1030,standard,steel,361.18,47.59,21.43,lead acid,370,6.28
+1031,mountain,steel,303.85,39.06,15.13,lead acid,163,6.4
+1032,mountain,steel,604.0,43.22,30.65,lead acid,244,7.25
+1033,folding,steel,243.52,75.87,31.18,li-ion,257,4.44
+1034,standard,steel,554.18,70.37,21.6,nimh,190,6.17
+1035,folding,carbon fiber,625.01,57.45,25.53,lead acid,172,6.46
+1036,standard,steel,252.83,20.0,22.54,lead acid,280,5.9
+1037,road,aluminum,602.5,73.34,17.73,li-ion,255,8.35
+1038,mountain,steel,358.78,71.81,25.99,other,335,7.81
+1039,mountain,aluminum,722.26,46.82,25.97,li-ion,193,8.27
+1040,road,steel,296.35,86.29,20.93,other,230,6.31
+1041,mountain,steel,722.86,51.77,36.25,lead acid,227,8.18
+1042,road,steel,772.69,62.44,19.95,lead acid,286,7.68
+1043,mountain,aluminum,664.63,54.6,23.94,nimh,267,8.26
+1044,standard,aluminum,409.2,38.64,27.18,lead acid,282,4.14
+1045,folding,carbon fiber,295.75,65.7,30.31,nimh,222,4.41
+1046,standard,carbon fiber,522.66,68.19,14.86,lead acid,209,5.82
+1047,folding,steel,466.23,44.5,23.96,li-ion,279,6.07
+1048,mountain,carbon fiber,293.05,20.85,25.72,nimh,241,7.58
+1049,road,aluminum,516.66,55.07,25.77,li-ion,339,6.85
+1050,mountain,steel,692.55,28.34,26.25,li-ion,311,7.2
+1051,standard,aluminum,344.07,52.93,21.25,li-ion,316,4.88
+1052,standard,steel,603.1,59.44,22.54,li-ion,300,5.6
+1053,folding,aluminum,668.83,62.53,17.57,lead acid,246,7.39
+1054,road,carbon fiber,475.54,28.05,27.19,lead acid,314,6.72
+1055,mountain,carbon fiber,549.37,66.8,28.47,lead acid,258,7.78
+1056,folding,aluminum,755.58,37.48,34.59,li-ion,200,6.9
+1057,mountain,carbon fiber,639.12,59.32,27.98,lead acid,257,8.25
+1058,mountain,carbon fiber,496.55,64.15,36.28,nimh,201,7.06
+1059,folding,aluminum,206.0,42.77,22.79,li-ion,217,5.39
+1060,standard,carbon fiber,384.59,55.75,22.27,lead acid,341,4.94
+1061,mountain,steel,396.0,51.49,20.5,nimh,314,4.57
+1062,road,carbon fiber,661.63,71.69,15.55,li-ion,299,5.88
+1063,road,carbon fiber,212.31,54.93,27.75,li-ion,287,6.72
+1064,folding,steel,353.38,70.07,30.28,nimh,289,4.55
+1065,mountain,aluminum,637.92,55.35,21.96,li-ion,211,7.09
+1066,mountain,carbon fiber,750.78,68.26,30.76,lead acid,208,5.71
+1067,standard,steel,452.73,85.63,23.58,nimh,265,5.24
+1068,standard,steel,608.8,70.2,25.05,nimh,272,6.13
+1069,standard,steel,263.93,21.42,25.0,li-ion,210,4.66
+1070,mountain,carbon fiber,603.7,43.95,23.69,li-ion,251,5.9
+1071,mountain,aluminum,619.01,65.5,16.16,nimh,286,7.12
+1072,standard,carbon fiber,625.31,43.12,28.07,lead acid,237,7.93
+1073,mountain,carbon fiber,298.15,53.61,23.01,lead acid,194,5.06
+1074,standard,steel,488.14,57.87,10.81,li-ion,249,7.37
+1075,road,carbon fiber,607.6,56.72,27.75,li-ion,292,5.24
+1076,standard,carbon fiber,717.16,114.5,21.04,other,264,5.45
+1077,folding,carbon fiber,383.39,64.03,29.97,lead acid,217,5.96
+1078,mountain,carbon fiber,471.94,66.99,19.31,nimh,228,6.66
+1079,folding,carbon fiber,212.61,56.24,15.16,nimh,227,7.66
+1080,road,steel,605.8,80.28,22.69,nimh,254,8.61
+1081,folding,carbon fiber,649.92,53.9,28.55,lead acid,351,7.18
+1082,mountain,steel,371.09,76.33,32.2,lead acid,206,6.97
+1083,mountain,aluminum,389.09,49.19,16.87,li-ion,280,8.83
+1084,folding,aluminum,758.58,59.89,28.61,lead acid,304,7.03
+1085,standard,aluminum,419.11,64.55,27.95,lead acid,229,7.16
+1086,standard,carbon fiber,773.59,57.05,27.57,li-ion,254,5.9
+1087,standard,aluminum,448.82,57.85,21.91,lead acid,341,6.13
+1088,folding,carbon fiber,564.68,60.88,26.63,lead acid,344,7.39
+1089,standard,steel,492.95,73.16,28.34,li-ion,244,5.83
+1090,mountain,carbon fiber,477.04,47.06,30.46,lead acid,264,7.83
+1091,folding,carbon fiber,332.37,64.67,26.53,li-ion,251,6.2
+1092,mountain,steel,685.94,58.65,25.61,nimh,220,7.04
+1093,folding,steel,723.76,54.06,26.17,nimh,292,6.26
+1094,road,aluminum,665.83,49.12,32.76,nimh,338,7.07
+1095,road,aluminum,207.8,63.19,40.16,li-ion,305,7.93
+1096,mountain,steel,200.9,50.31,20.67,nimh,223,6.44
+1097,folding,aluminum,440.72,79.28,18.56,lead acid,196,5.09
+1098,folding,carbon fiber,792.8,48.75,22.03,lead acid,178,6.17
+1099,road,aluminum,730.07,84.68,28.16,li-ion,151,7.64
+1100,folding,steel,278.34,54.04,21.74,li-ion,286,3.95
+1101,mountain,steel,228.21,64.82,25.0,nimh,247,5.97
+1102,folding,aluminum,351.28,51.46,23.58,lead acid,375,7.2
+1103,road,aluminum,294.85,46.12,18.83,li-ion,229,6.16
+1104,road,carbon fiber,637.62,80.87,20.98,li-ion,288,8.59
+1105,folding,steel,372.59,66.84,32.09,nimh,311,6.94
+1106,mountain,carbon fiber,675.74,60.99,24.18,lead acid,308,8.13
+1107,standard,steel,445.82,34.91,25.82,nimh,275,7.44
+1108,standard,aluminum,543.97,85.91,33.45,nimh,141,5.89
+1109,standard,carbon fiber,474.94,59.73,24.97,li-ion,226,7.28
+1110,folding,steel,450.03,73.46,21.39,lead acid,284,5.47
+1111,standard,steel,610.61,20.0,23.2,li-ion,157,7.57
+1112,standard,carbon fiber,262.13,60.99,30.2,lead acid,266,5.24
+1113,standard,carbon fiber,522.96,65.51,28.49,li-ion,226,4.03
+1114,folding,aluminum,794.0,75.23,26.77,nimh,318,10.37
+1115,standard,carbon fiber,478.84,60.78,28.96,nimh,218,6.06
+1116,road,aluminum,515.46,53.2,20.87,nimh,243,5.81
+1117,road,carbon fiber,516.36,67.11,25.0,li-ion,230,8.02
+1118,road,steel,799.1,49.38,25.8,nimh,316,7.77
+1119,standard,carbon fiber,676.34,41.61,23.14,li-ion,244,7.79
+1120,mountain,steel,233.02,65.51,34.82,lead acid,241,5.77
+1121,folding,steel,299.05,68.45,22.5,li-ion,147,4.9
+1122,road,steel,531.07,55.72,19.42,lead acid,213,9.87
+1123,road,steel,534.37,75.4,24.36,lead acid,175,5.1
+1124,mountain,steel,544.87,67.52,27.51,nimh,260,5.46
+1125,standard,aluminum,282.24,45.63,24.79,nimh,198,8.28
+1126,road,steel,655.33,59.28,20.81,li-ion,179,6.74
+1127,folding,steel,676.64,64.27,28.52,lead acid,235,7.47
+1128,mountain,aluminum,306.85,58.46,23.83,nimh,241,5.01
+1129,folding,carbon fiber,250.13,51.7,33.35,nimh,213,3.34
+1130,folding,steel,594.4,66.94,32.3,li-ion,176,5.57
+1131,road,steel,235.12,69.79,27.02,nimh,223,2.94
+1132,road,carbon fiber,601.0,56.95,31.13,li-ion,256,9.29
+1133,road,carbon fiber,650.23,62.86,14.42,lead acid,248,6.16
+1134,road,steel,780.19,48.33,22.26,li-ion,229,9.74
+1135,standard,aluminum,450.63,66.56,25.0,other,299,5.43
+1136,road,steel,552.38,51.59,30.33,lead acid,221,5.12
+1137,mountain,steel,227.91,67.75,30.51,li-ion,251,4.49
+1138,standard,carbon fiber,307.45,47.51,28.61,other,286,4.5
+1139,standard,aluminum,653.53,81.05,26.14,li-ion,308,8.12
+1140,mountain,carbon fiber,407.7,67.5,19.33,li-ion,180,6.11
+1141,standard,carbon fiber,580.29,52.21,32.19,li-ion,170,7.18
+1142,mountain,aluminum,372.29,62.23,23.43,nimh,217,7.75
+1143,standard,aluminum,681.14,84.91,31.81,nimh,225,5.74
+1144,folding,aluminum,786.49,59.97,22.1,nimh,248,6.32
+1145,folding,aluminum,685.64,66.72,30.93,lead acid,113,7.89
+1146,standard,carbon fiber,330.57,71.41,32.39,nimh,281,6.52
+1147,road,aluminum,739.07,60.13,33.03,other,283,8.38
+1148,folding,aluminum,362.08,56.23,35.48,lead acid,254,5.71
+1149,standard,carbon fiber,712.96,40.07,30.81,lead acid,362,6.0
+1150,folding,carbon fiber,729.76,59.79,29.07,nimh,199,7.0
+1151,standard,steel,793.7,53.19,17.03,li-ion,194,8.02
+1152,mountain,steel,338.97,49.2,28.48,nimh,222,6.08
+1153,standard,aluminum,414.61,79.14,22.55,li-ion,317,5.29
+1154,standard,steel,532.87,51.93,32.99,nimh,309,5.48
+1155,folding,carbon fiber,623.51,62.11,24.25,lead acid,208,8.5
+1156,folding,steel,231.82,73.76,16.87,nimh,295,6.1
+1157,mountain,aluminum,500.45,56.76,24.16,li-ion,281,4.33
+1158,folding,carbon fiber,764.88,45.55,19.11,li-ion,256,8.07
+1159,road,steel,224.01,63.47,28.56,li-ion,280,4.03
+1160,standard,aluminum,736.97,68.74,18.91,nimh,277,6.67
+1161,folding,carbon fiber,558.68,91.97,28.94,nimh,224,8.55
+1162,mountain,steel,776.29,48.79,18.59,li-ion,193,8.65
+1163,mountain,carbon fiber,469.83,70.44,22.31,lead acid,267,5.41
+1164,road,aluminum,209.0,49.16,27.8,nimh,342,4.71
+1165,standard,carbon fiber,202.7,76.59,20.69,li-ion,255,5.32
+1166,standard,steel,540.07,56.92,25.83,lead acid,278,4.89
+1167,mountain,carbon fiber,539.17,46.25,25.0,other,226,6.07
+1168,folding,steel,353.08,64.19,13.81,nimh,271,3.2
+1169,standard,carbon fiber,651.13,80.28,24.42,li-ion,231,10.23
+1170,mountain,aluminum,371.99,37.4,25.1,li-ion,174,5.13
+1171,standard,aluminum,434.42,43.54,21.49,li-ion,321,7.48
+1172,road,steel,269.63,47.11,28.04,nimh,310,6.0
+1173,mountain,steel,308.95,61.27,24.32,lead acid,309,7.82
+1174,road,steel,346.47,77.31,21.14,nimh,158,2.72
+1175,road,carbon fiber,668.23,71.09,22.81,li-ion,273,8.95
+1176,folding,aluminum,435.02,59.13,24.01,nimh,234,8.92
+1177,mountain,steel,635.52,48.45,33.35,lead acid,234,6.76
+1178,standard,aluminum,634.32,44.17,31.92,lead acid,228,7.62
+1179,folding,carbon fiber,459.63,43.27,18.67,li-ion,232,6.32
+1180,mountain,steel,596.5,91.8,25.0,lead acid,230,7.64
+1181,road,aluminum,479.44,68.17,25.0,nimh,207,4.82
+1182,road,steel,210.81,58.0,32.98,nimh,298,3.28
+1183,road,aluminum,424.81,70.58,23.51,lead acid,157,7.48
+1184,road,aluminum,606.1,50.08,28.13,li-ion,365,5.25
+1185,road,aluminum,769.38,70.35,22.73,lead acid,297,7.4
+1186,folding,steel,590.5,57.55,22.73,nimh,264,8.09
+1187,standard,steel,672.74,66.44,29.77,li-ion,220,7.44
+1188,folding,steel,445.52,52.85,27.63,li-ion,332,6.44
+1189,road,carbon fiber,724.96,80.58,21.38,lead acid,150,7.77
+1190,road,aluminum,221.01,63.07,26.97,li-ion,306,7.87
+1191,mountain,aluminum,540.37,43.85,24.92,nimh,214,5.26
+1192,standard,aluminum,274.44,62.73,29.46,li-ion,211,4.82
+1193,mountain,carbon fiber,331.47,82.65,28.65,lead acid,304,3.61
+1194,folding,aluminum,628.31,93.9,23.51,li-ion,236,6.21
+1195,mountain,steel,718.36,54.99,23.91,lead acid,330,8.18
+1196,standard,steel,266.33,67.04,33.23,lead acid,230,5.85
+1197,road,carbon fiber,340.47,40.34,25.0,li-ion,257,6.48
+1198,road,steel,367.48,94.87,28.3,lead acid,236,7.85
+1199,road,carbon fiber,364.48,57.68,22.86,lead acid,325,4.38
+1200,mountain,aluminum,512.16,58.37,26.67,lead acid,238,6.68
+1201,standard,steel,649.32,57.51,18.46,li-ion,252,6.6
+1202,mountain,carbon fiber,525.96,28.45,20.59,li-ion,212,5.87
+1203,road,carbon fiber,443.42,91.13,29.85,li-ion,314,6.89
+1204,mountain,aluminum,541.27,78.44,23.74,nimh,280,8.43
+1205,mountain,steel,435.62,54.95,21.22,nimh,281,3.36
+1206,road,carbon fiber,677.24,65.99,15.14,nimh,225,6.07
+1207,standard,steel,540.97,55.84,15.6,lead acid,293,8.39
+1208,mountain,steel,449.72,80.11,22.36,li-ion,295,5.62
+1209,standard,steel,665.23,60.82,26.8,lead acid,201,7.96
+1210,mountain,aluminum,336.57,68.9,23.08,lead acid,247,5.6
+1211,folding,steel,640.62,46.83,25.36,other,249,7.3
+1212,mountain,carbon fiber,558.08,51.03,28.04,lead acid,330,7.9
+1213,mountain,aluminum,242.62,92.61,22.93,lead acid,321,4.04
+1214,standard,steel,761.88,25.39,16.12,li-ion,284,8.0
+1215,standard,carbon fiber,694.95,65.98,35.07,li-ion,213,8.2
+1216,mountain,steel,209.9,101.32,33.73,lead acid,269,3.39
+1217,folding,steel,572.79,36.82,25.88,li-ion,298,3.98
+1218,folding,steel,200.0,80.68,25.09,lead acid,287,5.37
+1219,mountain,steel,605.2,47.13,24.18,other,164,5.82
+1220,standard,carbon fiber,705.75,73.26,27.39,li-ion,244,6.64
+1221,standard,steel,278.64,59.48,34.96,nimh,210,8.04
+1222,road,carbon fiber,411.01,84.19,26.3,li-ion,289,5.34
+1223,mountain,steel,693.75,45.28,17.07,lead acid,233,5.2
+1224,standard,carbon fiber,614.81,110.56,25.06,lead acid,177,9.43
+1225,road,carbon fiber,318.56,62.3,26.52,lead acid,278,3.91
+1226,folding,carbon fiber,210.51,37.54,26.18,li-ion,246,5.35
+1227,road,carbon fiber,446.12,59.18,29.45,nimh,204,7.93
+1228,standard,aluminum,263.03,45.92,29.57,lead acid,232,7.73
+1229,road,carbon fiber,744.47,48.32,24.6,nimh,204,9.87
+1230,road,steel,579.39,71.89,18.56,nimh,348,6.43
+1231,folding,steel,335.97,77.31,25.0,lead acid,241,5.37
+1232,standard,carbon fiber,797.3,62.23,18.18,li-ion,169,7.87
+1233,folding,steel,337.17,63.86,22.5,nimh,324,4.38
+1234,mountain,steel,302.35,56.67,18.79,other,300,5.63
+1235,mountain,carbon fiber,637.32,35.64,35.51,nimh,199,5.46
+1236,road,carbon fiber,444.92,44.32,25.76,li-ion,151,7.32
+1237,folding,aluminum,664.03,59.4,23.77,li-ion,216,8.95
+1238,road,aluminum,582.99,50.33,27.33,nimh,243,5.66
+1239,folding,carbon fiber,285.24,69.12,13.13,li-ion,287,6.81
+1240,road,aluminum,249.22,52.23,23.65,nimh,229,7.62
+1241,road,aluminum,267.23,39.35,24.46,nimh,234,4.02
+1242,road,aluminum,236.32,87.22,25.0,nimh,314,4.83
+1243,mountain,aluminum,559.58,39.07,28.22,li-ion,169,8.46
+1244,mountain,carbon fiber,468.03,88.51,23.23,lead acid,271,5.05
+1245,mountain,aluminum,549.07,68.95,23.42,lead acid,209,5.18
+1246,folding,steel,472.24,67.91,30.32,li-ion,272,7.35
+1247,folding,aluminum,459.93,90.52,24.61,lead acid,241,5.38
+1248,road,steel,438.32,55.32,32.44,li-ion,290,6.37
+1249,standard,steel,641.52,73.06,29.93,nimh,286,7.58
+1250,road,steel,271.74,53.55,28.86,li-ion,275,4.26
+1251,standard,steel,702.45,58.05,24.21,lead acid,302,7.26
+1252,folding,carbon fiber,498.05,62.42,15.97,other,315,6.52
+1253,mountain,aluminum,569.18,86.76,22.9,lead acid,264,6.32
+1254,mountain,aluminum,748.97,88.23,32.54,nimh,230,9.61
+1255,standard,carbon fiber,375.89,54.49,20.11,lead acid,202,8.25
+1256,folding,aluminum,727.66,65.56,30.24,nimh,220,9.57
+1257,road,steel,394.2,39.72,20.19,nimh,229,5.46
+1258,mountain,aluminum,393.6,59.08,31.24,nimh,215,7.9
+1259,folding,steel,725.26,51.52,31.33,nimh,298,6.97
+1260,folding,aluminum,412.51,73.53,24.26,lead acid,261,4.46
+1261,mountain,aluminum,405.6,50.16,21.94,lead acid,374,7.54
+1262,folding,carbon fiber,484.54,76.12,24.31,li-ion,228,6.67
+1263,road,aluminum,757.98,70.4,19.9,nimh,279,8.89
+1264,standard,aluminum,705.45,66.58,32.02,nimh,222,10.15
+1265,standard,steel,673.04,63.82,29.0,nimh,271,6.35
+1266,folding,aluminum,747.77,85.17,25.0,lead acid,221,6.69
+1267,standard,steel,708.75,26.5,24.97,li-ion,230,6.2
+1268,folding,carbon fiber,314.96,55.84,22.85,other,221,3.08
+1269,road,carbon fiber,341.37,48.86,34.26,nimh,264,7.69
+1270,road,carbon fiber,739.37,63.36,23.93,lead acid,220,6.21
+1271,folding,aluminum,716.86,66.11,20.41,lead acid,273,10.24
+1272,mountain,steel,475.24,60.05,28.93,lead acid,249,7.13
+1273,folding,steel,519.06,55.9,17.99,li-ion,243,6.17
+1274,mountain,aluminum,221.61,47.25,22.13,lead acid,245,6.1
+1275,road,carbon fiber,724.36,55.89,27.37,nimh,215,7.75
+1276,road,carbon fiber,537.07,63.52,20.65,nimh,207,6.05
+1277,folding,carbon fiber,666.73,97.22,23.4,nimh,260,7.51
+1278,standard,carbon fiber,497.15,80.92,25.62,nimh,329,6.2
+1279,road,aluminum,279.24,34.64,24.01,li-ion,209,4.55
+1280,mountain,aluminum,585.39,58.3,22.99,nimh,320,9.87
+1281,folding,carbon fiber,232.12,61.99,18.81,nimh,338,4.99
+1282,folding,steel,473.14,39.56,23.28,lead acid,333,7.71
+1283,mountain,carbon fiber,258.53,53.04,16.92,nimh,335,4.34
+1284,road,aluminum,486.94,39.37,22.41,li-ion,196,6.29
+1285,road,aluminum,571.59,37.76,31.85,nimh,244,6.73
+1286,road,aluminum,752.58,70.08,18.53,nimh,189,6.12
+1287,mountain,aluminum,788.29,55.08,17.07,nimh,232,7.14
+1288,mountain,carbon fiber,759.18,81.53,21.76,nimh,251,5.62
+1289,folding,carbon fiber,386.69,58.16,22.51,lead acid,256,4.72
+1290,folding,carbon fiber,741.17,80.04,27.09,li-ion,257,8.14
+1291,standard,aluminum,326.96,51.47,24.85,lead acid,243,6.06
+1292,folding,aluminum,738.47,70.39,14.42,nimh,271,8.35
+1293,standard,carbon fiber,339.27,43.21,18.43,nimh,229,6.28
+1294,standard,aluminum,709.35,32.99,23.71,lead acid,220,5.62
+1295,folding,steel,525.36,61.95,24.66,li-ion,310,7.09
+1296,folding,aluminum,788.59,92.09,21.77,lead acid,247,5.63
+1297,standard,carbon fiber,766.68,53.54,25.71,lead acid,233,7.66
+1298,standard,carbon fiber,747.17,45.7,19.15,li-ion,289,7.86
+1299,road,steel,533.47,89.05,23.72,li-ion,147,6.83
+1300,mountain,carbon fiber,553.58,60.05,23.71,nimh,247,8.44
+1301,road,steel,757.38,46.74,26.14,li-ion,207,4.96
+1302,standard,carbon fiber,605.5,51.53,28.38,other,204,8.51
+1303,folding,carbon fiber,794.9,69.56,27.53,nimh,321,8.22
+1304,folding,carbon fiber,467.43,45.94,23.18,lead acid,265,6.24
+1305,mountain,carbon fiber,264.83,72.08,26.54,nimh,334,3.86
+1306,folding,carbon fiber,228.81,60.34,28.87,lead acid,228,4.78
+1307,folding,carbon fiber,768.18,67.9,14.19,nimh,301,6.72
+1308,standard,aluminum,427.21,57.6,22.41,li-ion,228,8.49
+1309,mountain,steel,560.78,45.67,25.92,lead acid,182,7.37
+1310,folding,steel,524.46,63.52,27.94,nimh,272,6.03
+1311,mountain,steel,563.78,51.31,31.94,lead acid,336,7.5
+1312,standard,steel,222.81,81.41,30.09,lead acid,272,4.92
+1313,road,steel,238.72,65.93,28.09,nimh,264,7.9
+1314,road,carbon fiber,766.08,55.93,28.14,lead acid,227,8.19
+1315,mountain,steel,599.5,61.51,23.96,nimh,291,7.25
+1316,folding,carbon fiber,570.69,76.71,17.49,nimh,280,4.88
+1317,mountain,aluminum,364.18,47.16,29.15,li-ion,204,5.7
+1318,mountain,aluminum,507.35,64.41,22.85,nimh,353,6.38
+1319,standard,carbon fiber,794.6,69.87,23.39,nimh,269,8.81
+1320,mountain,aluminum,491.75,46.93,27.22,lead acid,172,6.48
+1321,standard,aluminum,426.61,56.21,29.02,lead acid,271,4.9
+1322,standard,steel,365.98,68.42,27.18,lead acid,267,4.74
+1323,standard,steel,529.56,36.46,20.04,nimh,181,6.62
+1324,road,aluminum,679.94,73.11,23.74,nimh,261,8.16
+1325,road,steel,648.12,72.41,27.64,nimh,341,9.34
+1326,standard,aluminum,513.06,38.85,17.69,li-ion,336,9.35
+1327,standard,steel,751.68,66.63,21.03,other,222,8.15
+1328,folding,carbon fiber,777.49,60.1,30.15,lead acid,298,5.52
+1329,mountain,carbon fiber,797.6,76.15,30.99,lead acid,233,8.16
+1330,folding,aluminum,505.55,50.8,18.87,nimh,296,4.81
+1331,mountain,carbon fiber,751.38,71.93,33.53,li-ion,212,9.18
+1332,mountain,steel,673.94,72.32,31.85,lead acid,264,8.89
+1333,folding,carbon fiber,612.41,43.4,27.71,nimh,271,7.61
+1334,standard,steel,480.04,41.92,26.67,lead acid,244,5.66
+1335,folding,carbon fiber,328.46,82.5,24.99,lead acid,242,3.72
+1336,road,steel,784.09,61.29,27.05,li-ion,242,9.97
+1337,folding,steel,568.88,49.23,25.0,lead acid,230,6.77
+1338,road,carbon fiber,778.39,62.19,24.37,nimh,235,4.45
+1339,standard,aluminum,600.7,84.25,19.22,li-ion,237,8.55
+1340,road,aluminum,799.7,43.54,24.82,li-ion,161,9.11
+1341,folding,steel,769.08,102.83,27.72,li-ion,238,6.5
+1342,road,aluminum,577.89,38.08,31.71,nimh,221,7.06
+1343,standard,steel,723.46,55.6,36.71,lead acid,299,8.47
+1344,road,aluminum,304.15,64.97,24.58,lead acid,191,6.8
+1345,mountain,steel,377.99,55.81,25.39,nimh,218,4.94
+1346,folding,steel,211.41,59.96,17.35,li-ion,273,3.95
+1347,road,aluminum,566.18,62.53,25.0,nimh,217,5.89
+1348,folding,carbon fiber,627.71,46.63,28.3,lead acid,221,8.41
+1349,road,steel,257.03,56.66,16.64,li-ion,319,8.44
+1350,folding,aluminum,401.1,47.18,20.93,li-ion,268,5.82
+1351,standard,aluminum,360.88,53.86,23.62,nimh,219,5.71
+1352,road,aluminum,409.8,57.83,31.83,lead acid,160,4.59
+1353,road,carbon fiber,201.8,52.67,23.6,other,253,4.67
+1354,folding,aluminum,478.24,63.25,19.43,lead acid,268,4.27
+1355,standard,aluminum,599.2,65.35,21.58,nimh,283,8.23
+1356,folding,steel,231.22,92.37,24.73,lead acid,235,3.83
+1357,road,aluminum,436.82,61.1,22.59,lead acid,203,4.55
+1358,road,carbon fiber,697.65,43.25,24.42,other,146,5.2
+1359,road,aluminum,494.15,77.89,20.28,lead acid,177,7.75
+1360,standard,aluminum,588.99,68.2,30.44,lead acid,281,6.83
+1361,mountain,steel,340.17,39.99,24.11,lead acid,256,7.18
+1362,mountain,carbon fiber,782.29,55.35,29.55,nimh,231,7.07
+1363,mountain,aluminum,388.19,63.82,29.13,nimh,258,6.13
+1364,mountain,steel,777.19,56.87,31.84,li-ion,244,7.79
+1365,road,carbon fiber,741.47,87.01,21.16,lead acid,318,7.43
+1366,folding,steel,204.2,50.19,18.19,li-ion,311,4.36
+1367,road,aluminum,446.72,40.03,19.71,li-ion,258,5.01
+1368,standard,steel,381.59,69.8,21.69,lead acid,256,5.81
+1369,road,aluminum,556.28,55.24,23.84,lead acid,257,7.91
+1370,mountain,aluminum,725.56,57.81,23.19,lead acid,209,8.91
+1371,folding,steel,593.8,27.49,27.97,lead acid,191,5.71
+1372,road,aluminum,283.74,56.95,29.89,nimh,369,4.58
+1373,mountain,carbon fiber,380.39,60.29,26.24,li-ion,304,5.56
+1374,mountain,steel,787.99,67.27,25.0,lead acid,291,7.9
+1375,folding,carbon fiber,591.4,33.41,15.2,nimh,293,3.92
+1376,standard,carbon fiber,328.76,78.71,22.28,lead acid,220,6.92
+1377,mountain,steel,404.1,49.6,18.54,nimh,242,8.94
+1378,folding,aluminum,217.41,48.98,20.56,li-ion,272,4.44
+1379,mountain,carbon fiber,619.61,38.16,25.0,lead acid,274,7.31
+1380,road,aluminum,530.17,45.92,17.27,nimh,233,5.45
+1381,road,steel,420.01,66.86,14.49,lead acid,284,7.35
+1382,mountain,aluminum,296.95,70.1,13.37,lead acid,356,6.42
+1383,folding,carbon fiber,423.01,54.95,24.77,lead acid,173,6.38
+1384,folding,steel,208.4,50.68,28.83,li-ion,234,5.06
+1385,folding,steel,317.06,73.75,25.0,nimh,355,5.53
+1386,folding,steel,711.76,76.99,21.24,nimh,205,8.39
+1387,folding,carbon fiber,305.65,57.91,21.96,li-ion,208,5.97
+1388,folding,steel,226.41,76.6,37.62,nimh,254,4.38
+1389,folding,carbon fiber,240.22,67.09,26.88,lead acid,283,6.04
+1390,mountain,carbon fiber,468.63,27.33,18.6,lead acid,377,6.61
+1391,mountain,carbon fiber,775.39,77.2,25.12,li-ion,291,7.01
+1392,mountain,steel,352.78,57.78,24.27,lead acid,229,5.76
+1393,folding,steel,277.44,59.76,25.48,lead acid,228,6.29
+1394,road,carbon fiber,666.43,61.56,28.99,li-ion,262,6.65
+1395,standard,steel,666.13,45.6,22.15,other,316,8.27
+1396,mountain,steel,766.98,53.28,25.42,lead acid,281,7.63
+1397,standard,steel,653.83,75.3,28.05,li-ion,192,8.21
+1398,mountain,carbon fiber,754.38,73.79,27.91,lead acid,288,10.56
+1399,standard,carbon fiber,438.92,60.41,19.49,nimh,244,6.85
+1400,standard,carbon fiber,578.19,64.61,17.62,nimh,149,7.19
+1401,mountain,steel,385.49,57.75,22.02,li-ion,247,9.35
+1402,road,steel,343.77,72.34,23.78,lead acid,259,7.58
+1403,mountain,carbon fiber,394.5,58.36,29.57,li-ion,229,4.47
+1404,standard,steel,591.1,78.41,20.86,li-ion,282,7.45
+1405,standard,steel,546.67,68.3,30.39,nimh,297,7.1
+1406,standard,aluminum,319.46,50.05,32.3,li-ion,328,4.58
+1407,mountain,steel,600.1,79.2,25.0,nimh,273,10.54
+1408,road,carbon fiber,657.43,69.83,23.08,lead acid,247,5.73
+1409,folding,carbon fiber,668.53,94.4,30.87,li-ion,257,8.12
+1410,road,aluminum,435.92,61.3,23.04,li-ion,215,3.52
+1411,mountain,carbon fiber,386.39,48.03,30.58,li-ion,110,8.41
+1412,mountain,steel,632.52,93.22,11.44,li-ion,269,7.48
+1413,mountain,carbon fiber,483.94,59.16,28.92,lead acid,232,5.69
+1414,mountain,carbon fiber,364.78,50.97,25.39,nimh,296,4.61
+1415,folding,steel,426.91,20.0,30.77,nimh,229,4.96
+1416,mountain,aluminum,280.44,65.9,25.0,li-ion,360,4.8
+1417,standard,carbon fiber,228.51,58.79,26.51,nimh,215,4.47
+1418,folding,aluminum,227.31,60.39,20.01,li-ion,329,5.12
+1419,standard,carbon fiber,227.01,39.63,22.63,li-ion,296,4.88
+1420,road,steel,351.88,74.0,23.03,nimh,268,5.62
+1421,standard,steel,214.11,58.11,26.76,li-ion,274,5.56
+1422,folding,carbon fiber,313.16,49.7,21.37,other,127,7.7
+1423,road,steel,557.18,73.49,26.6,nimh,292,6.55
+1424,mountain,carbon fiber,270.84,43.35,21.22,nimh,285,8.2
+1425,road,aluminum,495.05,44.98,20.82,li-ion,185,7.47
+1426,road,aluminum,294.55,53.68,20.93,nimh,182,6.44
+1427,road,aluminum,245.92,33.35,26.58,nimh,236,5.65
+1428,road,steel,565.88,71.57,31.44,lead acid,193,6.99
+1429,road,steel,573.09,52.89,19.62,nimh,250,9.12
+1430,mountain,carbon fiber,703.95,88.64,25.47,lead acid,235,5.61
+1431,road,steel,441.62,61.76,25.27,nimh,205,5.67
+1432,mountain,carbon fiber,267.53,49.0,16.43,nimh,309,5.27
+1433,road,carbon fiber,306.25,58.47,27.08,li-ion,364,8.13
+1434,mountain,steel,382.49,90.28,20.35,li-ion,230,6.11
+1435,mountain,steel,348.27,22.42,19.53,other,247,6.11
+1436,standard,steel,314.66,69.16,24.92,nimh,230,3.86
+1437,folding,aluminum,484.24,63.59,28.33,lead acid,240,8.77
+1438,road,steel,699.75,87.87,24.58,li-ion,273,7.95
+1439,folding,carbon fiber,755.28,86.12,23.72,li-ion,216,3.11
+1440,road,carbon fiber,476.74,66.34,34.52,nimh,277,5.95
+1441,road,carbon fiber,316.16,54.65,23.87,nimh,260,4.97
+1442,mountain,aluminum,712.06,66.12,28.12,nimh,309,7.75
+1443,folding,steel,407.4,57.39,27.51,li-ion,125,7.63
+1444,road,aluminum,254.63,81.39,28.5,li-ion,299,2.27
+1445,folding,carbon fiber,398.7,51.79,24.95,nimh,322,6.37
+1446,road,carbon fiber,555.98,50.52,31.16,lead acid,233,6.0
+1447,standard,carbon fiber,318.86,27.28,23.75,li-ion,200,3.35
+1448,road,steel,509.75,65.82,30.96,li-ion,324,7.94
+1449,road,aluminum,402.0,46.65,25.65,nimh,182,3.88
+1450,road,aluminum,779.89,42.18,33.05,lead acid,237,6.33
+1451,mountain,steel,570.39,44.43,21.76,li-ion,330,8.61
+1452,mountain,steel,667.93,57.87,15.08,li-ion,219,8.01
+1453,standard,aluminum,487.54,59.89,25.59,li-ion,148,6.51
+1454,mountain,steel,793.1,61.18,27.57,nimh,263,5.43
+1455,folding,carbon fiber,639.42,83.46,31.28,lead acid,247,5.71
+1456,standard,aluminum,646.62,69.9,24.47,lead acid,234,5.03
+1457,folding,carbon fiber,719.86,57.23,16.94,nimh,306,10.1
+1458,road,aluminum,792.5,71.8,22.96,other,203,8.0
+1459,folding,carbon fiber,623.81,84.25,21.56,lead acid,258,5.91
+1460,folding,carbon fiber,405.9,39.97,33.02,lead acid,303,7.78
+1461,folding,aluminum,433.22,53.16,17.11,li-ion,270,5.97
+1462,folding,carbon fiber,787.09,54.55,18.13,lead acid,150,7.59
+1463,road,aluminum,784.39,90.72,23.47,nimh,204,8.68
+1464,folding,aluminum,643.02,67.7,24.49,li-ion,318,8.18
+1465,folding,aluminum,431.12,52.99,23.03,nimh,195,5.21
+1466,road,steel,740.27,58.3,24.99,lead acid,185,8.77
+1467,mountain,steel,257.93,55.2,20.56,other,297,4.73
+1468,standard,aluminum,216.21,32.85,24.98,lead acid,232,6.61
+1469,road,aluminum,350.68,51.66,21.91,lead acid,206,7.35
+1470,folding,steel,355.48,71.88,28.16,li-ion,255,8.81
+1471,standard,steel,650.83,59.92,30.2,li-ion,298,5.71
+1472,standard,steel,654.13,68.36,24.56,nimh,117,6.47
+1473,road,carbon fiber,351.58,65.11,23.5,nimh,349,4.98
+1474,mountain,aluminum,579.09,61.6,24.46,li-ion,214,6.5
+1475,standard,steel,574.89,66.11,31.46,li-ion,199,6.61
+1476,mountain,carbon fiber,596.2,34.46,14.88,li-ion,273,6.52
+1477,road,steel,270.54,58.74,30.88,nimh,229,7.92
+1478,standard,steel,250.43,76.26,20.23,nimh,207,6.47
+1479,mountain,steel,543.07,58.93,30.17,nimh,305,6.44
+1480,standard,steel,727.36,44.78,18.97,lead acid,307,8.31
+1481,folding,steel,376.19,54.35,20.36,other,350,4.04
+1482,standard,carbon fiber,708.15,52.4,27.72,lead acid,205,10.92
+1483,mountain,steel,693.15,49.23,26.36,li-ion,261,6.59
+1484,folding,steel,592.9,48.57,39.95,li-ion,328,8.17
+1485,road,aluminum,694.35,48.22,19.76,lead acid,198,5.97
+1486,road,carbon fiber,551.78,63.55,21.87,lead acid,221,5.79
+1487,road,aluminum,721.36,69.72,23.9,lead acid,109,6.32
+1488,folding,carbon fiber,773.29,78.53,20.88,lead acid,223,10.54
+1489,standard,steel,616.01,62.95,25.39,li-ion,226,7.69
+1490,road,carbon fiber,518.16,62.76,24.96,lead acid,195,7.39
+1491,road,steel,239.32,42.73,30.09,li-ion,279,4.27
+1492,mountain,aluminum,304.45,92.75,19.94,lead acid,285,4.08
+1493,folding,aluminum,363.88,62.74,31.64,lead acid,340,8.42
+1494,folding,carbon fiber,437.72,49.81,33.64,nimh,239,6.84
+1495,standard,steel,727.06,56.55,22.78,other,277,7.53
+1496,folding,carbon fiber,643.62,66.57,25.96,li-ion,245,9.13
+1497,road,steel,465.93,63.09,29.36,nimh,341,7.24
+1498,road,carbon fiber,500.15,75.91,20.94,nimh,315,5.95
+1499,standard,steel,686.24,53.36,21.56,other,202,6.93
+1500,mountain,steel,408.6,55.08,24.94,lead acid,195,7.45
+1501,folding,steel,653.23,60.28,23.27,li-ion,381,4.28
+1502,standard,steel,253.13,46.72,28.49,li-ion,248,6.25
+1503,mountain,carbon fiber,446.42,26.39,20.81,nimh,314,4.83
+1504,standard,aluminum,266.63,35.33,23.53,li-ion,314,3.94
+1505,mountain,carbon fiber,577.29,64.8,15.31,lead acid,141,6.57
+1506,standard,steel,674.24,60.05,20.07,nimh,338,4.94
+1507,mountain,aluminum,410.71,55.03,35.48,lead acid,224,3.92
+1508,folding,carbon fiber,713.56,76.97,25.63,lead acid,253,5.67
+1509,standard,aluminum,382.79,85.9,25.93,nimh,274,5.71
+1510,standard,steel,763.38,56.46,20.9,lead acid,332,8.16
+1511,road,aluminum,327.56,74.41,23.59,nimh,259,1.71
+1512,standard,steel,455.73,26.16,25.36,lead acid,271,5.28
+1513,mountain,carbon fiber,546.37,50.91,24.99,nimh,222,6.84
+1514,mountain,carbon fiber,413.11,55.7,31.51,nimh,287,6.29
+1515,road,steel,479.74,76.67,25.0,nimh,243,7.96
+1516,road,carbon fiber,273.24,53.4,10.0,li-ion,229,5.9
+1517,standard,steel,532.27,40.59,32.12,lead acid,184,6.22
+1518,road,steel,342.57,49.38,32.82,nimh,273,5.73
+1519,mountain,aluminum,546.97,44.13,16.39,nimh,193,4.08
+1520,standard,aluminum,510.66,75.3,29.89,lead acid,245,8.93
+1521,road,aluminum,454.83,66.07,25.14,li-ion,202,3.54
+1522,folding,carbon fiber,275.34,42.88,22.83,lead acid,209,4.76
+1523,mountain,aluminum,461.43,46.87,22.66,other,285,6.27
+1524,mountain,aluminum,711.46,48.07,25.07,lead acid,285,7.64
+1525,folding,carbon fiber,736.07,27.31,31.89,other,313,8.75
+1526,standard,steel,592.3,66.23,14.87,li-ion,211,7.83
+1527,standard,steel,406.5,64.22,21.16,nimh,261,6.23
+1528,mountain,aluminum,305.35,57.18,24.95,lead acid,310,5.2
+1529,road,carbon fiber,628.01,63.97,31.16,li-ion,175,7.52
+1530,road,carbon fiber,323.66,50.19,23.13,lead acid,252,6.35
+1531,folding,carbon fiber,496.25,63.56,39.2,nimh,293,6.1
+1532,standard,aluminum,647.82,67.41,26.7,nimh,190,5.35
+1533,folding,aluminum,346.77,53.03,25.72,li-ion,288,6.41
+1534,mountain,aluminum,215.91,60.46,25.0,li-ion,181,5.09
+1535,mountain,steel,293.95,28.27,21.25,lead acid,249,5.06
+1536,folding,carbon fiber,449.12,78.07,22.22,li-ion,263,6.25
+1537,road,steel,317.96,68.93,22.17,nimh,208,6.73
+1538,mountain,steel,686.54,47.92,33.37,other,317,7.29
+1539,mountain,carbon fiber,279.84,56.14,26.64,nimh,271,5.32
+1540,standard,carbon fiber,659.83,58.8,31.83,lead acid,264,5.74
+1541,folding,carbon fiber,748.67,65.35,23.87,lead acid,247,9.09
+1542,mountain,aluminum,538.57,41.62,33.8,other,295,6.19
+1543,standard,aluminum,527.46,44.43,24.46,nimh,223,7.07
+1544,standard,aluminum,302.65,58.29,18.58,nimh,200,5.54
+1545,mountain,steel,550.58,83.89,18.78,other,182,8.4
+1546,standard,steel,556.88,62.26,27.98,li-ion,318,4.96
+1547,mountain,carbon fiber,426.01,54.54,28.06,lead acid,260,6.37
+1548,folding,carbon fiber,586.59,63.12,25.0,lead acid,223,4.22
+1549,mountain,steel,691.95,74.54,28.82,li-ion,279,7.13
+1550,road,carbon fiber,417.31,72.51,19.98,nimh,205,4.34
+1551,standard,aluminum,504.35,77.98,22.06,li-ion,238,6.78
+1552,mountain,steel,377.39,58.3,31.06,lead acid,196,5.27
+1553,folding,carbon fiber,530.47,69.23,32.01,nimh,137,5.36
+1554,standard,aluminum,349.47,70.8,33.07,lead acid,240,6.28
+1555,road,aluminum,286.74,55.45,25.24,other,207,4.44
+1556,mountain,steel,444.62,49.77,30.12,lead acid,280,6.27
+1557,standard,carbon fiber,600.4,48.85,25.0,lead acid,140,7.89
+1558,mountain,aluminum,564.38,47.8,25.2,nimh,298,6.33
+1559,mountain,steel,713.26,74.96,29.13,lead acid,278,6.86
+1560,mountain,steel,514.26,68.51,28.37,lead acid,301,8.09
+1561,mountain,steel,652.93,44.21,25.4,lead acid,292,5.95
+1562,road,carbon fiber,414.31,64.14,25.35,li-ion,249,7.72
+1563,road,aluminum,255.23,51.14,30.69,lead acid,136,6.66
+1564,mountain,steel,553.28,59.85,29.77,nimh,173,8.09
+1565,folding,aluminum,636.12,75.79,31.15,nimh,245,8.87
+1566,folding,aluminum,464.43,61.99,25.45,lead acid,254,6.05
+1567,mountain,steel,430.22,69.46,27.09,li-ion,199,3.48
+1568,standard,carbon fiber,470.44,68.0,27.1,li-ion,228,7.1
+1569,standard,aluminum,634.02,83.82,26.83,lead acid,221,6.45
+1570,standard,carbon fiber,283.44,44.94,29.09,li-ion,318,6.59
+1571,road,carbon fiber,230.92,68.88,30.02,nimh,199,6.53
+1572,folding,aluminum,416.41,43.09,26.44,nimh,314,8.65
+1573,mountain,carbon fiber,277.74,75.26,19.51,nimh,280,7.11
+1574,road,steel,404.7,66.4,21.59,lead acid,246,7.42
+1575,folding,steel,521.16,50.21,15.32,li-ion,225,5.99
+1576,standard,aluminum,716.26,50.3,19.61,li-ion,295,8.58
+1577,standard,carbon fiber,685.34,40.55,27.21,lead acid,222,8.03
+1578,standard,steel,220.11,46.45,19.71,nimh,191,4.19
+1579,standard,aluminum,721.96,71.7,26.91,lead acid,229,10.13
+1580,road,steel,292.45,57.84,33.65,li-ion,242,5.83
+1581,mountain,steel,523.86,84.6,22.69,lead acid,261,7.2
+1582,road,carbon fiber,754.98,25.76,20.2,nimh,255,8.77
+1583,road,aluminum,554.78,66.61,21.7,lead acid,329,6.44
+1584,standard,aluminum,526.26,21.67,27.21,nimh,142,8.85
+1585,mountain,aluminum,665.53,72.27,29.26,li-ion,228,8.35
+1586,folding,carbon fiber,433.52,46.01,27.03,li-ion,294,5.54
+1587,mountain,steel,489.64,53.72,23.65,nimh,163,7.16
+1588,standard,aluminum,620.21,70.43,20.39,lead acid,271,10.15
+1589,standard,carbon fiber,369.88,43.63,27.8,nimh,334,5.44
+1590,mountain,aluminum,791.0,49.26,39.73,lead acid,276,8.86
+1591,folding,aluminum,692.85,62.16,30.87,nimh,161,5.43
+1592,standard,carbon fiber,615.11,76.44,24.0,nimh,238,6.41
+1593,folding,steel,287.04,53.17,23.0,lead acid,304,5.51
+1594,mountain,steel,488.44,42.04,33.02,nimh,183,6.7
+1595,mountain,steel,567.98,50.71,28.46,nimh,260,5.31
+1596,folding,steel,594.1,79.0,27.04,lead acid,223,6.4
+1597,road,aluminum,575.49,62.71,33.56,lead acid,333,4.58
+1598,standard,steel,219.81,67.89,31.55,lead acid,269,5.36
+1599,mountain,aluminum,797.0,69.73,25.31,nimh,220,5.64
+1600,road,steel,659.23,43.92,19.64,lead acid,135,6.31
+1601,mountain,carbon fiber,736.67,73.49,22.39,lead acid,249,7.49
+1602,standard,carbon fiber,432.92,78.48,22.4,nimh,171,7.14
+1603,standard,steel,667.03,63.63,27.52,lead acid,225,7.59
+1604,standard,aluminum,465.03,53.22,22.41,lead acid,252,6.42
+1605,road,steel,740.57,57.71,31.14,nimh,169,4.42
+1606,folding,steel,267.83,63.46,20.12,li-ion,200,6.54
+1607,folding,aluminum,630.72,52.5,21.41,li-ion,312,6.0
+1608,road,aluminum,200.3,42.86,20.38,nimh,214,4.79
+1609,road,aluminum,347.07,70.31,33.17,li-ion,196,8.11
+1610,folding,aluminum,471.34,53.22,25.25,lead acid,274,5.95
+1611,folding,carbon fiber,624.11,69.28,30.68,nimh,305,5.8
+1612,mountain,aluminum,662.83,22.52,15.72,li-ion,281,8.68
+1613,mountain,carbon fiber,315.56,70.33,22.45,li-ion,291,7.02
+1614,folding,carbon fiber,680.84,62.85,12.84,nimh,287,7.91
+1615,folding,steel,247.72,73.41,18.87,li-ion,215,5.6
+1616,mountain,aluminum,393.3,58.7,35.56,lead acid,255,4.22
+1617,folding,steel,474.04,81.96,19.57,li-ion,251,4.16
+1618,road,aluminum,790.4,59.02,20.98,li-ion,288,9.65
+1619,folding,steel,239.92,60.1,24.05,lead acid,265,5.45
+1620,mountain,carbon fiber,458.43,72.39,22.2,lead acid,199,4.68
+1621,standard,steel,341.97,49.75,28.95,li-ion,315,3.91
+1622,road,aluminum,463.83,54.37,25.0,nimh,258,5.74
+1623,road,aluminum,380.69,81.94,23.52,nimh,301,6.42
+1624,standard,carbon fiber,595.0,54.73,29.35,lead acid,249,9.3
+1625,folding,carbon fiber,688.64,51.58,19.16,nimh,214,8.79
+1626,folding,steel,760.98,45.86,25.62,nimh,172,5.97
+1627,mountain,carbon fiber,773.89,66.54,25.69,lead acid,241,7.9
+1628,folding,steel,230.02,87.05,30.13,nimh,249,5.62
+1629,road,carbon fiber,481.84,57.8,22.32,nimh,203,10.64
+1630,folding,steel,299.65,69.17,32.84,li-ion,259,3.74
+1631,mountain,aluminum,419.41,47.96,25.24,nimh,294,3.82
+1632,standard,aluminum,772.09,77.72,24.51,nimh,241,8.51
+1633,mountain,aluminum,422.71,49.14,26.92,lead acid,210,7.12
+1634,standard,steel,738.17,58.18,22.53,li-ion,327,8.25
+1635,standard,carbon fiber,597.7,57.95,32.7,li-ion,133,9.37
+1636,mountain,aluminum,214.71,52.08,15.95,li-ion,337,6.57
+1637,mountain,carbon fiber,502.25,60.11,24.96,li-ion,241,5.83
+1638,folding,carbon fiber,755.88,71.19,34.5,lead acid,228,6.26
+1639,folding,aluminum,641.82,69.78,17.5,other,224,7.32
+1640,road,aluminum,730.67,88.62,28.62,lead acid,242,6.07
+1641,road,carbon fiber,502.55,55.85,25.17,lead acid,262,4.53
+1642,folding,aluminum,232.72,81.75,30.18,nimh,240,3.21
+1643,standard,steel,713.86,62.08,19.66,lead acid,211,4.82
+1644,mountain,aluminum,611.81,67.56,30.55,lead acid,335,6.96
+1645,folding,carbon fiber,276.84,64.78,19.4,li-ion,242,5.29
+1646,road,carbon fiber,721.06,39.17,32.53,li-ion,128,4.99
+1647,folding,aluminum,317.36,74.79,29.98,nimh,326,5.11
+1648,mountain,steel,551.48,73.84,25.38,nimh,242,4.8
+1649,standard,carbon fiber,520.56,45.54,25.97,nimh,332,9.46
+1650,mountain,aluminum,258.23,78.72,20.51,li-ion,262,5.12
+1651,standard,steel,429.01,90.52,26.77,lead acid,342,4.52
+1652,mountain,steel,695.25,56.34,24.81,nimh,336,6.7
+1653,road,aluminum,785.59,53.75,22.26,nimh,266,10.45
+1654,folding,carbon fiber,558.38,65.31,31.1,li-ion,243,7.73
+1655,mountain,steel,275.94,75.6,21.15,li-ion,327,5.91
+1656,mountain,carbon fiber,265.13,66.06,23.36,lead acid,240,5.34
+1657,mountain,steel,798.8,51.32,31.36,lead acid,294,6.72
+1658,mountain,carbon fiber,735.47,46.32,22.25,li-ion,359,7.93
+1659,folding,steel,288.54,40.99,30.19,li-ion,270,6.46
+1660,standard,aluminum,774.19,63.93,21.35,nimh,207,9.54
+1661,road,aluminum,220.71,74.75,29.07,li-ion,211,5.07
+1662,folding,carbon fiber,478.54,26.45,23.17,nimh,216,7.89
+1663,road,carbon fiber,737.57,72.75,13.55,li-ion,292,10.38
+1664,road,steel,592.6,68.52,34.85,li-ion,320,10.15
+1665,standard,steel,714.76,51.39,31.6,nimh,253,8.16
+1666,standard,carbon fiber,352.48,39.43,23.25,li-ion,243,8.31
+1667,folding,steel,691.65,62.32,29.18,nimh,264,4.39
+1668,standard,carbon fiber,248.02,59.35,25.82,li-ion,270,6.08
+1669,mountain,aluminum,614.51,46.29,20.28,lead acid,321,5.36
+1670,mountain,carbon fiber,670.04,53.92,23.1,lead acid,278,6.53
+1671,road,carbon fiber,445.22,39.92,25.49,li-ion,342,4.51
+1672,folding,steel,779.29,82.67,28.0,lead acid,139,7.26
+1673,mountain,carbon fiber,576.69,59.48,18.79,nimh,244,4.94
+1674,standard,aluminum,669.43,54.57,28.53,lead acid,178,5.88
+1675,road,steel,561.38,71.71,16.3,li-ion,321,6.68
+1676,road,carbon fiber,762.18,61.47,21.3,nimh,245,9.95
+1677,standard,aluminum,539.47,60.14,24.62,li-ion,188,5.11
+1678,road,steel,215.31,50.32,32.1,lead acid,299,6.08
+1679,standard,carbon fiber,506.75,55.13,17.52,nimh,235,6.15
+1680,standard,steel,252.53,73.43,28.68,li-ion,253,6.27
+1681,road,steel,507.05,71.8,36.74,lead acid,118,6.38
+1682,standard,aluminum,609.7,68.35,27.82,li-ion,208,8.92
+1683,road,aluminum,494.45,69.36,20.96,lead acid,238,7.36
+1684,folding,steel,710.56,83.54,26.33,li-ion,173,10.25
+1685,road,steel,798.5,69.44,16.22,li-ion,221,8.31
+1686,road,carbon fiber,251.33,50.06,15.04,lead acid,220,3.34
+1687,standard,aluminum,550.88,61.21,20.08,li-ion,248,8.89
+1688,road,aluminum,754.68,69.3,26.52,li-ion,123,5.49
+1689,mountain,carbon fiber,595.3,58.32,22.8,other,246,5.56
+1690,standard,steel,730.37,81.67,24.97,lead acid,193,7.27
+1691,standard,aluminum,734.27,74.93,32.07,li-ion,170,7.44
+1692,standard,carbon fiber,243.22,54.94,19.85,lead acid,271,4.07
+1693,standard,aluminum,606.4,78.21,23.32,nimh,240,7.56
+1694,mountain,aluminum,759.48,59.65,24.2,nimh,172,7.76
+1695,mountain,aluminum,520.86,70.08,21.95,lead acid,249,3.85
+1696,road,steel,209.6,56.97,30.67,li-ion,227,5.59
+1697,standard,steel,739.97,77.57,25.0,nimh,214,5.54
+1698,standard,steel,240.52,60.74,24.72,nimh,224,4.44
+1699,road,aluminum,689.24,62.34,21.41,lead acid,322,6.16
+1700,standard,carbon fiber,682.34,102.22,25.19,lead acid,244,6.02
+1701,road,aluminum,537.97,53.83,34.09,li-ion,213,3.22
+1702,folding,carbon fiber,400.5,32.86,24.22,lead acid,237,4.66
+1703,folding,aluminum,682.04,55.41,23.89,lead acid,175,7.1
+1704,road,aluminum,246.82,79.64,29.85,li-ion,198,6.25
+1705,folding,steel,608.2,31.75,24.23,lead acid,199,3.65
+1706,folding,carbon fiber,568.58,71.18,17.18,nimh,221,6.72
+1707,road,steel,354.58,39.78,33.26,lead acid,295,6.6
+1708,mountain,carbon fiber,536.17,58.4,23.35,lead acid,262,6.77
+1709,standard,aluminum,631.02,47.08,31.5,nimh,277,7.28
+1710,road,aluminum,517.86,80.71,23.57,nimh,233,5.45
+1711,mountain,aluminum,562.88,58.44,21.43,li-ion,232,8.91
+1712,road,steel,547.27,41.95,21.69,nimh,185,4.63
+1713,mountain,aluminum,394.8,62.71,20.36,lead acid,180,5.35
+1714,folding,carbon fiber,610.91,69.67,31.4,li-ion,331,5.72
+1715,standard,aluminum,463.23,47.85,27.95,li-ion,292,2.27
+1716,road,steel,642.42,64.55,18.17,nimh,208,5.98
+1717,standard,steel,456.63,51.75,22.45,lead acid,331,8.38
+1718,road,steel,390.3,43.9,28.6,li-ion,214,6.34
+1719,standard,aluminum,581.49,76.88,23.91,lead acid,239,5.26
+1720,folding,aluminum,236.62,79.31,32.49,lead acid,260,5.41
+1721,folding,aluminum,588.39,76.77,20.8,other,244,6.01
+1722,road,carbon fiber,448.22,54.06,23.88,nimh,268,6.54
+1723,mountain,aluminum,747.47,65.68,27.64,nimh,268,6.88
+1724,mountain,carbon fiber,718.66,20.0,25.15,nimh,250,6.0
+1725,folding,steel,295.45,53.09,19.33,li-ion,292,4.5
+1726,folding,carbon fiber,772.39,64.2,26.37,lead acid,235,8.43
+1727,standard,steel,676.94,51.95,26.21,li-ion,206,8.37
+1728,mountain,steel,611.51,60.83,31.56,other,252,8.29
+1729,folding,aluminum,405.3,81.38,25.83,lead acid,306,5.78
+1730,mountain,aluminum,748.07,73.15,20.43,nimh,265,6.79
+1731,mountain,aluminum,504.05,51.18,17.96,lead acid,320,6.17
+1732,folding,carbon fiber,421.51,83.77,31.81,nimh,214,6.04
+1733,road,steel,260.93,37.05,21.05,lead acid,221,7.93
+1734,folding,carbon fiber,767.58,50.7,22.11,lead acid,305,9.89
+1735,mountain,carbon fiber,789.49,73.75,24.82,other,166,6.69
+1736,road,carbon fiber,321.26,37.46,27.73,lead acid,227,3.08
+1737,mountain,aluminum,671.84,52.12,25.09,li-ion,297,6.87
+1738,mountain,aluminum,628.91,63.75,35.85,li-ion,194,5.65
+1739,folding,steel,697.05,79.61,20.49,lead acid,310,9.77
+1740,standard,steel,281.34,48.86,23.04,nimh,240,6.35
+1741,folding,steel,389.69,51.22,21.88,lead acid,213,7.22
+1742,road,carbon fiber,271.44,58.67,21.11,nimh,292,6.14
+1743,standard,steel,273.54,59.3,23.64,nimh,254,5.18
+1744,mountain,carbon fiber,697.95,62.65,33.03,lead acid,166,5.22
+1745,mountain,carbon fiber,765.48,52.57,29.28,li-ion,256,7.49
+1746,road,carbon fiber,217.71,69.43,23.4,li-ion,180,6.06
+1747,mountain,aluminum,291.55,39.82,29.4,li-ion,245,3.62
+1748,mountain,steel,474.34,51.9,15.18,nimh,324,7.62
+1749,mountain,steel,236.02,47.85,11.32,lead acid,256,6.34
+1750,folding,carbon fiber,387.59,64.89,30.29,lead acid,282,7.84
+1751,mountain,carbon fiber,355.78,43.07,27.83,nimh,213,7.57
+1752,folding,steel,651.43,85.72,22.13,li-ion,279,4.5
+1753,folding,aluminum,528.96,56.92,21.96,lead acid,239,8.89
+1754,road,steel,391.2,67.53,32.41,other,252,6.63
+1755,mountain,steel,514.86,47.13,19.32,li-ion,277,6.98
+1756,folding,steel,386.99,57.92,25.74,lead acid,256,6.86
+1757,mountain,steel,487.24,51.61,22.67,lead acid,268,7.09
+1758,road,steel,642.12,83.46,19.97,nimh,200,4.25
+1759,standard,carbon fiber,255.53,46.43,17.63,li-ion,227,4.42
+1760,road,carbon fiber,213.51,78.4,23.27,lead acid,281,4.2
+1761,road,aluminum,678.74,51.55,23.87,lead acid,229,8.03
+1762,standard,steel,708.45,55.07,17.14,nimh,272,10.55
+1763,mountain,carbon fiber,313.46,54.38,29.49,lead acid,157,3.67
+1764,standard,steel,399.9,70.21,31.44,lead acid,292,7.63
+1765,standard,steel,750.48,38.94,21.69,nimh,297,9.25
+1766,folding,carbon fiber,442.82,53.15,21.28,nimh,315,6.09
+1767,standard,aluminum,308.35,61.27,27.1,nimh,196,4.99
+1768,road,carbon fiber,328.16,20.0,30.78,other,191,4.24
+1769,standard,carbon fiber,320.66,82.08,21.74,lead acid,167,5.85
+1770,standard,aluminum,431.42,55.13,23.15,nimh,315,3.66
+1771,standard,steel,462.33,59.09,26.39,nimh,277,7.27
+1772,folding,carbon fiber,334.17,65.98,29.18,lead acid,256,5.49
+1773,road,aluminum,245.62,70.95,22.81,lead acid,234,5.07
+1774,standard,aluminum,652.33,85.61,27.51,lead acid,301,6.56
+1775,road,aluminum,309.25,55.45,24.73,nimh,286,8.24
+1776,road,carbon fiber,776.59,44.25,33.22,nimh,309,5.77
+1777,mountain,aluminum,248.92,59.03,19.7,li-ion,233,2.47
+1778,mountain,carbon fiber,237.82,23.92,17.47,lead acid,263,5.04
+1779,standard,carbon fiber,770.89,27.57,25.0,lead acid,248,5.52
+1780,standard,aluminum,746.57,104.85,25.52,li-ion,241,8.29
+1781,standard,aluminum,290.95,45.59,31.08,nimh,221,5.96
+1782,mountain,aluminum,778.09,35.8,29.38,li-ion,203,7.82
+1783,standard,carbon fiber,769.98,51.97,19.91,li-ion,208,9.52
+1784,standard,aluminum,530.77,81.86,19.34,lead acid,235,5.91
+1785,road,steel,401.4,68.7,28.27,li-ion,280,8.87
+1786,road,steel,552.68,76.52,29.01,lead acid,291,8.07
+1787,road,steel,587.79,71.83,18.84,li-ion,311,6.37
+1788,standard,carbon fiber,246.52,77.88,22.1,nimh,330,4.74
+1789,road,carbon fiber,780.49,80.28,19.61,nimh,273,5.37
+1790,standard,steel,367.18,40.9,21.93,other,286,6.68
+1791,mountain,aluminum,527.16,57.01,24.31,nimh,257,6.25
+1792,standard,aluminum,322.46,63.15,21.47,li-ion,358,5.2
+1793,road,aluminum,256.43,46.3,19.35,nimh,213,6.71
+1794,standard,carbon fiber,245.02,36.37,24.6,li-ion,241,5.46
+1795,folding,aluminum,581.79,47.11,19.0,lead acid,246,8.2
+1796,road,carbon fiber,361.48,80.93,27.42,lead acid,222,7.59
+1797,standard,carbon fiber,544.57,82.58,29.3,li-ion,348,7.78
+1798,folding,steel,423.31,87.81,28.68,nimh,182,6.56
+1799,road,carbon fiber,325.46,57.17,24.67,li-ion,329,5.19
+1800,mountain,carbon fiber,333.27,51.96,23.34,lead acid,235,6.58
+1801,road,aluminum,760.08,54.38,11.39,other,216,8.21
+1802,standard,carbon fiber,322.16,88.72,22.15,nimh,313,7.37
+1803,folding,carbon fiber,726.16,85.61,27.19,li-ion,270,10.0
+1804,standard,aluminum,201.2,20.0,29.7,lead acid,225,3.51
+1805,standard,steel,222.21,82.21,22.38,li-ion,352,6.81
+1806,mountain,steel,583.59,57.02,26.18,li-ion,221,5.5
+1807,road,steel,745.07,28.82,30.81,nimh,281,7.24
+1808,folding,carbon fiber,226.71,65.54,16.8,nimh,309,3.02
+1809,folding,steel,595.6,65.04,29.54,lead acid,203,7.5
+1810,road,carbon fiber,704.55,55.59,26.34,li-ion,270,7.22
+1811,folding,steel,234.52,69.94,20.71,nimh,192,6.71
+1812,folding,steel,729.16,34.26,26.84,nimh,235,7.13
+1813,mountain,steel,560.18,63.23,23.1,nimh,189,6.39
+1814,standard,carbon fiber,225.21,63.01,24.43,nimh,227,4.81
+1815,road,aluminum,644.52,52.1,16.16,lead acid,281,6.52
+1816,standard,aluminum,763.08,45.94,25.43,li-ion,246,9.04
+1817,folding,carbon fiber,275.64,20.0,30.08,lead acid,317,6.63
+1818,road,steel,672.44,101.98,21.77,nimh,167,8.52
+1819,mountain,carbon fiber,341.07,65.83,21.98,nimh,205,5.14
+1820,mountain,carbon fiber,411.91,58.36,31.09,li-ion,256,8.55
+1821,folding,aluminum,601.9,61.27,21.38,lead acid,217,7.55
+1822,folding,steel,297.85,55.63,32.67,lead acid,261,4.23
+1823,road,steel,443.72,78.12,25.26,lead acid,312,5.17
+1824,road,aluminum,540.67,58.92,20.48,lead acid,307,4.63
+1825,road,steel,469.53,79.11,25.27,li-ion,205,9.47
+1826,folding,steel,255.83,38.09,29.36,lead acid,243,4.78
+1827,standard,steel,213.21,33.98,25.0,other,324,4.4
+1828,standard,aluminum,636.72,20.0,24.7,nimh,307,4.89
+1829,standard,carbon fiber,576.99,62.22,29.71,lead acid,237,4.88
+1830,folding,carbon fiber,683.84,73.6,25.0,li-ion,178,8.21
+1831,standard,carbon fiber,515.76,60.34,29.21,lead acid,239,7.99
+1832,road,aluminum,312.86,70.34,31.01,lead acid,212,4.11
+1833,folding,aluminum,655.03,83.82,22.3,nimh,206,7.19
+1834,road,steel,310.16,53.18,25.72,lead acid,168,2.6
+1835,folding,steel,793.4,90.16,25.82,lead acid,204,8.05
+1836,folding,steel,438.62,61.56,24.91,nimh,263,6.99
+1837,mountain,steel,454.53,74.19,18.67,lead acid,294,8.27
+1838,folding,steel,427.81,62.1,21.17,lead acid,265,8.39
+1839,mountain,steel,406.8,66.13,22.46,lead acid,277,2.88
+1840,road,aluminum,555.68,49.28,27.82,nimh,269,6.35
+1841,mountain,aluminum,208.1,44.38,20.18,lead acid,250,5.72
+1842,mountain,carbon fiber,542.17,61.14,31.1,nimh,236,5.8
+1843,mountain,aluminum,646.32,60.67,25.15,li-ion,287,7.6
+1844,mountain,carbon fiber,477.64,69.37,20.1,nimh,263,8.68
+1845,mountain,aluminum,495.95,28.09,31.88,li-ion,217,6.8
+1846,mountain,steel,262.43,51.06,28.84,lead acid,298,3.81
+1847,road,carbon fiber,696.15,45.62,29.05,nimh,212,9.62
+1848,mountain,aluminum,509.45,70.86,28.13,lead acid,275,5.74
+1849,standard,aluminum,494.75,56.99,26.3,li-ion,191,6.24
+1850,standard,carbon fiber,312.26,46.02,28.66,nimh,282,3.65
+1851,folding,aluminum,237.52,92.59,24.86,lead acid,225,5.39
+1852,folding,aluminum,327.86,59.38,26.83,lead acid,214,6.1
+1853,road,aluminum,315.86,53.21,28.58,lead acid,229,2.96
+1854,road,carbon fiber,203.9,59.76,28.85,lead acid,253,4.0
+1855,folding,carbon fiber,707.55,78.8,29.08,li-ion,268,6.54
+1856,folding,steel,294.25,59.08,22.36,li-ion,200,5.18
+1857,road,steel,709.95,59.76,17.7,li-ion,140,8.1
+1858,road,carbon fiber,519.66,76.62,26.69,lead acid,188,5.91
+1859,standard,steel,306.55,33.95,25.01,li-ion,266,8.22
+1860,folding,steel,525.06,60.5,28.16,li-ion,295,7.78
+1861,folding,steel,430.52,80.19,19.23,li-ion,265,3.47
+1862,road,steel,681.74,58.85,32.01,nimh,273,8.05
+1863,mountain,aluminum,611.21,50.24,26.89,li-ion,228,7.45
+1864,standard,aluminum,289.44,49.02,23.13,lead acid,267,7.12
+1865,standard,carbon fiber,305.05,54.28,34.66,li-ion,316,9.41
+1866,standard,steel,384.89,87.69,34.83,nimh,197,6.08
+1867,standard,carbon fiber,333.87,61.11,31.37,nimh,304,7.12
+1868,road,steel,704.85,63.62,23.52,nimh,224,7.39
+1869,road,carbon fiber,662.23,71.35,20.96,lead acid,216,6.98
+1870,mountain,steel,374.09,73.68,28.35,nimh,260,4.5
+1871,standard,carbon fiber,260.03,54.84,19.9,li-ion,212,3.85
+1872,folding,aluminum,464.13,52.04,26.97,lead acid,226,5.1
+1873,standard,steel,212.91,54.95,19.07,li-ion,273,2.04
+1874,mountain,steel,751.98,44.56,21.01,lead acid,253,9.11
+1875,folding,carbon fiber,444.02,49.39,26.65,nimh,210,6.64
+1876,standard,steel,689.54,71.66,19.26,li-ion,272,7.02
+1877,standard,carbon fiber,579.69,58.59,25.84,li-ion,238,5.92
+1878,road,steel,441.32,38.8,18.05,li-ion,247,4.5
+1879,standard,carbon fiber,430.82,79.07,23.54,other,218,6.05
+1880,road,carbon fiber,273.84,54.07,26.81,lead acid,224,7.46
+1881,road,carbon fiber,396.9,58.24,23.82,lead acid,279,4.17
+1882,standard,steel,421.21,61.03,18.52,lead acid,278,7.67
+1883,folding,carbon fiber,489.04,54.89,23.82,nimh,314,4.45
+1884,mountain,carbon fiber,650.53,28.0,35.56,lead acid,278,7.92
+1885,folding,steel,483.64,68.05,24.03,lead acid,216,6.02
+1886,mountain,aluminum,731.87,63.39,22.36,nimh,168,5.54
+1887,road,carbon fiber,367.78,49.21,17.93,other,213,5.4
+1888,standard,aluminum,305.95,40.03,28.54,nimh,323,4.68
+1889,road,aluminum,528.06,55.1,25.05,lead acid,230,7.35
+1890,standard,steel,640.92,47.94,20.55,lead acid,213,10.26
+1891,road,carbon fiber,580.59,71.22,23.53,lead acid,332,4.21
+1892,road,carbon fiber,645.72,70.74,23.88,lead acid,133,6.63
+1893,standard,carbon fiber,730.97,37.14,26.37,nimh,280,9.5
+1894,mountain,carbon fiber,519.96,50.43,16.07,lead acid,256,10.47
+1895,mountain,aluminum,456.93,62.05,21.19,li-ion,286,8.04
+1896,mountain,steel,688.04,58.63,29.48,li-ion,245,5.16
+1897,mountain,aluminum,473.74,54.19,30.52,nimh,253,7.36
+1898,mountain,aluminum,707.25,72.21,29.86,li-ion,198,5.8
+1899,standard,steel,570.99,27.67,23.69,nimh,250,9.27
+1900,folding,carbon fiber,342.87,66.97,36.97,other,285,4.79
+1901,road,steel,492.65,67.71,22.88,nimh,242,6.56
+1902,standard,carbon fiber,664.33,50.27,26.6,nimh,270,7.13
+1903,road,steel,781.69,79.75,31.42,nimh,263,8.97
+1904,folding,steel,202.1,62.8,16.83,other,233,5.59
+1905,standard,steel,622.61,53.36,32.55,other,300,4.54
+1906,standard,steel,453.03,56.4,21.18,li-ion,242,5.82
+1907,standard,carbon fiber,455.43,54.83,26.5,other,280,7.59
+1908,road,steel,460.23,54.82,23.48,lead acid,169,7.83
+1909,folding,aluminum,563.18,71.8,25.58,lead acid,224,7.7
+1910,road,steel,314.06,46.11,24.23,li-ion,227,5.75
+1911,folding,aluminum,378.29,36.32,18.65,lead acid,358,6.11
+1912,mountain,steel,245.32,59.64,29.09,li-ion,257,6.6
+1913,standard,carbon fiber,339.57,66.16,31.54,nimh,284,5.8
+1914,mountain,steel,381.29,61.61,25.08,li-ion,257,5.69
+1915,standard,aluminum,636.42,77.04,26.86,nimh,209,2.69
+1916,road,carbon fiber,303.25,46.02,15.46,li-ion,322,4.87
+1917,road,aluminum,366.58,56.82,26.77,nimh,288,4.39
+1918,folding,aluminum,486.04,69.66,21.82,lead acid,301,5.91
+1919,standard,steel,654.43,91.38,16.69,nimh,273,7.91
+1920,mountain,aluminum,576.39,34.84,22.15,li-ion,275,5.31
+1921,road,aluminum,621.11,42.13,23.83,lead acid,189,9.08
+1922,standard,steel,377.69,70.27,26.24,lead acid,212,8.44
+1923,road,carbon fiber,397.8,59.48,25.9,li-ion,270,7.35
+1924,standard,steel,449.42,49.29,13.9,other,324,9.58
+1925,folding,aluminum,503.45,85.25,36.21,lead acid,268,5.4
+1926,mountain,carbon fiber,710.26,59.16,16.46,lead acid,172,6.81
+1927,standard,steel,289.14,88.51,33.84,lead acid,259,4.54
+1928,standard,carbon fiber,371.69,48.77,24.6,lead acid,273,5.9
+1929,mountain,steel,499.55,75.55,22.85,lead acid,238,6.17
+1930,folding,steel,784.99,66.13,26.22,li-ion,244,7.2
+1931,standard,steel,249.52,35.3,28.36,li-ion,247,5.95
+1932,standard,steel,508.85,75.49,30.22,nimh,227,8.56
+1933,standard,steel,749.87,46.91,19.87,li-ion,301,6.88
+1934,standard,carbon fiber,337.47,77.78,32.28,li-ion,275,4.76
+1935,mountain,aluminum,274.74,49.0,30.52,li-ion,233,4.74
+1936,mountain,steel,460.53,67.6,22.14,li-ion,220,5.59
+1937,folding,carbon fiber,393.9,40.99,24.06,nimh,188,7.87
+1938,standard,carbon fiber,461.13,39.23,29.23,li-ion,282,4.36
+1939,road,aluminum,338.37,74.38,29.33,nimh,347,6.42
+1940,road,aluminum,233.32,64.59,28.22,lead acid,307,7.21
+1941,folding,carbon fiber,239.02,71.67,20.92,li-ion,251,7.61
+1942,folding,steel,781.39,62.78,12.42,nimh,306,9.25
+1943,road,aluminum,690.75,60.14,29.52,li-ion,155,6.49
+1944,standard,steel,418.51,47.25,28.27,li-ion,220,6.57
+1945,road,aluminum,687.44,76.28,24.33,li-ion,238,5.91
+1946,mountain,aluminum,567.68,59.46,23.0,li-ion,291,6.72
+1947,mountain,aluminum,763.98,49.97,19.94,li-ion,241,5.52
+1948,mountain,steel,519.36,52.06,23.61,other,323,7.47
+1949,road,steel,742.97,64.86,31.16,lead acid,250,6.28
+1950,standard,steel,591.7,72.35,26.37,nimh,234,6.4
+1951,folding,steel,401.7,68.57,22.35,lead acid,264,6.45
+1952,standard,steel,652.03,80.22,20.74,nimh,243,7.88
+1953,folding,carbon fiber,457.83,62.79,26.48,lead acid,286,5.78
+1954,standard,aluminum,212.01,42.19,24.32,li-ion,343,5.6
+1955,road,steel,470.14,54.63,34.79,li-ion,255,7.29
+1956,road,carbon fiber,622.31,64.98,27.13,nimh,321,7.22
+1957,road,carbon fiber,272.04,50.71,23.73,li-ion,341,8.2
+1958,folding,aluminum,782.59,87.69,30.45,nimh,272,10.34
+1959,mountain,steel,386.09,90.32,25.57,other,233,4.94
+1960,road,steel,218.31,68.72,17.91,other,162,4.45
+1961,folding,carbon fiber,295.15,66.02,30.2,li-ion,230,4.23
+1962,mountain,steel,771.49,26.89,18.73,lead acid,175,11.55
+1963,standard,carbon fiber,207.2,85.45,20.3,li-ion,181,7.01
+1964,road,steel,706.35,66.75,23.97,lead acid,293,7.46
+1965,mountain,aluminum,687.74,65.21,20.57,lead acid,258,3.57
+1966,standard,carbon fiber,496.85,79.2,17.06,nimh,252,7.3
+1967,road,aluminum,575.19,84.34,20.76,nimh,177,6.62
+1968,mountain,aluminum,356.38,48.11,23.81,li-ion,180,5.65
+1969,standard,carbon fiber,441.02,43.5,18.21,li-ion,351,4.11
+1970,standard,carbon fiber,697.35,74.54,24.29,lead acid,293,7.63
+1971,folding,steel,324.86,52.44,23.5,nimh,258,6.64
+1972,folding,carbon fiber,546.07,59.46,22.88,li-ion,273,5.75
+1973,mountain,aluminum,269.93,68.82,33.7,li-ion,285,2.45
+1974,mountain,steel,535.57,53.16,19.84,nimh,280,8.17
+1975,mountain,steel,451.83,43.53,21.38,nimh,227,6.27
+1976,mountain,aluminum,326.36,66.02,25.69,li-ion,292,4.55
+1977,mountain,steel,681.44,77.35,30.61,li-ion,207,8.34
+1978,folding,steel,451.53,79.69,32.9,lead acid,207,6.56
+1979,folding,steel,671.54,95.14,38.91,lead acid,250,7.59
+1980,folding,steel,629.21,75.46,29.12,lead acid,186,7.49
+1981,road,aluminum,385.19,46.11,15.07,lead acid,235,6.6
+1982,road,aluminum,738.77,84.28,28.77,li-ion,137,6.39
+1983,road,aluminum,657.73,71.77,27.03,nimh,230,8.12
+1984,standard,carbon fiber,541.57,60.01,35.14,nimh,307,4.95
+1985,folding,carbon fiber,409.5,57.33,20.36,li-ion,249,2.89
+1986,folding,steel,452.13,53.83,26.1,lead acid,257,5.78
+1987,road,steel,545.47,52.24,17.45,nimh,270,6.95
+1988,folding,aluminum,655.93,60.5,18.5,li-ion,185,8.18
+1989,road,steel,510.36,54.21,23.21,nimh,290,7.04
+1990,road,carbon fiber,648.42,42.28,22.89,nimh,320,9.79
+1991,standard,steel,320.06,64.43,22.03,lead acid,220,5.97
+1992,folding,aluminum,543.67,71.63,31.59,nimh,212,7.87
+1993,folding,steel,403.5,69.6,20.82,lead acid,180,4.65
+1994,mountain,steel,695.55,59.65,27.96,li-ion,289,8.9
+1995,mountain,carbon fiber,593.2,61.3,21.08,nimh,284,6.52
+1996,standard,steel,513.36,47.86,27.55,lead acid,221,8.15
+1997,road,carbon fiber,329.96,57.49,23.16,lead acid,236,4.54
+1998,folding,aluminum,379.79,75.11,26.38,nimh,255,4.24
+1999,mountain,steel,368.08,71.93,19.04,nimh,264,7.01
